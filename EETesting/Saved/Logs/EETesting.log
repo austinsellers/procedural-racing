@@ -1,0 +1,1322 @@
+﻿Log file open, 02/01/18 20:42:07
+LogWindows: Failed to load 'aqProf.dll' (GetLastError=126)
+LogWindows: File 'aqProf.dll' does not exist
+LogWindows: Failed to load 'VtuneApi.dll' (GetLastError=126)
+LogWindows: File 'VtuneApi.dll' does not exist
+LogWindows: Failed to load 'VtuneApi32e.dll' (GetLastError=126)
+LogWindows: File 'VtuneApi32e.dll' does not exist
+LogInit: Display: Running engine for game: EETesting
+LogPlatformFile: Not using cached read wrapper
+LogInit: Display: RandInit(144974271) SRandInit(144974271).
+LogInit: Read version file with build ID '3709383'
+LogInit: Overriding engine version to CL 3832480, compatible CL 3709383
+LogInit: Registered custom module enumerator with build ID '3709383'
+LogTaskGraph: Started task graph with 5 named threads and 14 total threads with 3 sets of task threads.
+LogStats: Stats thread started at 0.554311
+LogD3D11RHI: Aftermath initialized
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/PhysXVehicles/Binaries/Win64/UE4Editor-PhysXVehicles.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/PhysXVehicles/Binaries/Win64/UE4Editor-PhysXVehiclesEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Experimental/RawInput/Binaries/Win64/UE4Editor-RawInput.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/2D/Paper2D/Binaries/Win64/UE4Editor-Paper2D.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/2D/Paper2D/Binaries/Win64/UE4Editor-Paper2DEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/2D/Paper2D/Binaries/Win64/UE4Editor-PaperSpriteSheetImporter.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/2D/Paper2D/Binaries/Win64/UE4Editor-PaperTiledImporter.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/2D/Paper2D/Binaries/Win64/UE4Editor-SmartSnapping.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Blendables/LightPropagationVolume/Binaries/Win64/UE4Editor-LightPropagationVolumeRuntime.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Blendables/LightPropagationVolume/Binaries/Win64/UE4Editor-LightPropagationVolumeEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Developer/GitSourceControl/Binaries/Win64/UE4Editor-GitSourceControl.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Developer/PerforceSourceControl/Binaries/Win64/UE4Editor-PerforceSourceControl.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Developer/SubversionSourceControl/Binaries/Win64/UE4Editor-SubversionSourceControl.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Developer/UObjectPlugin/Binaries/Win64/UE4Editor-UObjectPlugin.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Developer/VisualStudioCodeSourceCodeAccess/Binaries/Win64/UE4Editor-VisualStudioCodeSourceCodeAccess.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Developer/VisualStudioSourceCodeAccess/Binaries/Win64/UE4Editor-VisualStudioSourceCodeAccess.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Editor/AssetManagerEditor/Binaries/Win64/UE4Editor-AssetManagerEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Editor/AudioCapture/Binaries/Win64/UE4Editor-AudioCapture.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Editor/FacialAnimation/Binaries/Win64/UE4Editor-FacialAnimation.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Editor/FacialAnimation/Binaries/Win64/UE4Editor-FacialAnimationEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Editor/GameplayTagsEditor/Binaries/Win64/UE4Editor-GameplayTagsEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Editor/MobileLauncherProfileWizard/Binaries/Win64/UE4Editor-MobileLauncherProfileWizard.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Editor/PluginBrowser/Binaries/Win64/UE4Editor-PluginBrowser.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Editor/SpeedTreeImporter/Binaries/Win64/UE4Editor-SpeedTreeImporter.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Experimental/AlembicImporter/Binaries/Win64/UE4Editor-AlembicImporter.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Experimental/AlembicImporter/Binaries/Win64/UE4Editor-AlembicLibrary.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Experimental/CharacterAI/Binaries/Win64/UE4Editor-CharacterAI.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Experimental/HTML5Networking/Binaries/Win64/UE4Editor-HTML5Networking.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/AndroidMedia/Binaries/Win64/UE4Editor-AndroidMediaEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/AndroidMedia/Binaries/Win64/UE4Editor-AndroidMediaFactory.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/AvfMedia/Binaries/Win64/UE4Editor-AvfMediaEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/AvfMedia/Binaries/Win64/UE4Editor-AvfMediaFactory.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/AvfMedia/Binaries/Win64/UE4Editor-AvfMediaFactory.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/ImgMedia/Binaries/Win64/UE4Editor-ImgMedia.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/ImgMedia/Binaries/Win64/UE4Editor-ImgMediaEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/ImgMedia/Binaries/Win64/UE4Editor-ImgMediaFactory.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/ImgMedia/Binaries/Win64/UE4Editor-ImgMediaFactory.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/ImgMedia/Binaries/Win64/UE4Editor-OpenExrWrapper.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/MediaCompositing/Binaries/Win64/UE4Editor-MediaCompositing.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/MediaCompositing/Binaries/Win64/UE4Editor-MediaCompositingEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/MediaPlayerEditor/Binaries/Win64/UE4Editor-MediaPlayerEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/WmfMedia/Binaries/Win64/UE4Editor-WmfMedia.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/WmfMedia/Binaries/Win64/UE4Editor-WmfMediaEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/WmfMedia/Binaries/Win64/UE4Editor-WmfMediaFactory.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/WmfMedia/Binaries/Win64/UE4Editor-WmfMediaFactory.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Messaging/TcpMessaging/Binaries/Win64/UE4Editor-TcpMessaging.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Messaging/UdpMessaging/Binaries/Win64/UE4Editor-UdpMessaging.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/MovieScene/ActorSequence/Binaries/Win64/UE4Editor-ActorSequence.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/MovieScene/LevelSequenceEditor/Binaries/Win64/UE4Editor-LevelSequenceEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/MovieScene/MatineeToLevelSequence/Binaries/Win64/UE4Editor-MatineeToLevelSequence.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Online/OnlineSubsystem/Binaries/Win64/UE4Editor-OnlineSubsystem.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/AndroidPermission/Binaries/Win64/UE4Editor-AndroidPermission.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Online/OnlineSubsystemNull/Binaries/Win64/UE4Editor-OnlineSubsystemNull.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Online/OnlineSubsystemUtils/Binaries/Win64/UE4Editor-OnlineSubsystemUtils.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Online/OnlineSubsystemUtils/Binaries/Win64/UE4Editor-OnlineBlueprintSupport.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/AndroidDeviceProfileSelector/Binaries/Win64/UE4Editor-AndroidDeviceProfileSelector.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/AppleARKit/Binaries/Win64/UE4Editor-AppleARKit.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/ArchVisCharacter/Binaries/Win64/UE4Editor-ArchVisCharacter.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/CableComponent/Binaries/Win64/UE4Editor-CableComponent.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/CustomMeshComponent/Binaries/Win64/UE4Editor-CustomMeshComponent.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/ExampleDeviceProfileSelector/Binaries/Win64/UE4Editor-ExampleDeviceProfileSelector.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/ImmediatePhysics/Binaries/Win64/UE4Editor-ImmediatePhysics.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/ImmediatePhysics/Binaries/Win64/UE4Editor-ImmediatePhysicsEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/LocationServicesBPLibrary/Binaries/Win64/UE4Editor-LocationServicesBPLibrary.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/MobilePatchingUtils/Binaries/Win64/UE4Editor-MobilePatchingUtils.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/Oculus/OculusVR/Binaries/Win64/UE4Editor-OculusHMD.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/Oculus/OculusVR/Binaries/Win64/UE4Editor-OculusInput.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/Oculus/OculusVR/Binaries/Win64/UE4Editor-OculusEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/ProceduralMeshComponent/Binaries/Win64/UE4Editor-ProceduralMeshComponent.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/ProceduralMeshComponent/Binaries/Win64/UE4Editor-ProceduralMeshComponentEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/RuntimePhysXCooking/Binaries/Win64/UE4Editor-RuntimePhysXCooking.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/Steam/SteamVR/Binaries/Win64/UE4Editor-SteamVR.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/Steam/SteamVR/Binaries/Win64/UE4Editor-SteamVRController.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/WindowsMoviePlayer/Binaries/Win64/UE4Editor-WindowsMoviePlayer.dll (API version 3709383).
+LogPluginManager: Mounting plugin Paper2D
+LogPluginManager: Mounting plugin LightPropagationVolume
+LogPluginManager: Mounting plugin CodeLiteSourceCodeAccess
+LogPluginManager: Mounting plugin GitSourceControl
+LogPluginManager: Mounting plugin KDevelopSourceCodeAccess
+LogPluginManager: Mounting plugin NullSourceCodeAccess
+LogPluginManager: Mounting plugin PerforceSourceControl
+LogPluginManager: Mounting plugin SubversionSourceControl
+LogPluginManager: Mounting plugin UObjectPlugin
+LogPluginManager: Mounting plugin VisualStudioCodeSourceCodeAccess
+LogPluginManager: Mounting plugin VisualStudioSourceCodeAccess
+LogPluginManager: Mounting plugin XCodeSourceCodeAccess
+LogPluginManager: Mounting plugin AssetManagerEditor
+LogPluginManager: Mounting plugin AudioCapture
+LogPluginManager: Mounting plugin FacialAnimation
+LogPluginManager: Mounting plugin GameplayTagsEditor
+LogPluginManager: Mounting plugin MobileLauncherProfileWizard
+LogPluginManager: Mounting plugin PluginBrowser
+LogPluginManager: Mounting plugin SpeedTreeImporter
+LogPluginManager: Mounting plugin AlembicImporter
+LogPluginManager: Mounting plugin CharacterAI
+LogPluginManager: Mounting plugin HTML5Networking
+LogPluginManager: Mounting plugin RawInput
+LogPluginManager: Mounting plugin AndroidMedia
+LogPluginManager: Mounting plugin AvfMedia
+LogPluginManager: Mounting plugin ImgMedia
+LogPluginManager: Mounting plugin MediaCompositing
+LogPluginManager: Mounting plugin MediaPlayerEditor
+LogPluginManager: Mounting plugin WmfMedia
+LogPluginManager: Mounting plugin TcpMessaging
+LogPluginManager: Mounting plugin UdpMessaging
+LogPluginManager: Mounting plugin ActorSequence
+LogPluginManager: Mounting plugin LevelSequenceEditor
+LogPluginManager: Mounting plugin MatineeToLevelSequence
+LogPluginManager: Mounting plugin OnlineSubsystemGooglePlay
+LogPluginManager: Mounting plugin OnlineSubsystemIOS
+LogPluginManager: Mounting plugin OnlineSubsystem
+LogPluginManager: Mounting plugin OnlineSubsystemNull
+LogPluginManager: Mounting plugin OnlineSubsystemUtils
+LogPluginManager: Mounting plugin AndroidDeviceProfileSelector
+LogPluginManager: Mounting plugin AndroidMoviePlayer
+LogPluginManager: Mounting plugin AndroidPermission
+LogPluginManager: Mounting plugin AppleARKit
+LogPluginManager: Mounting plugin AppleMoviePlayer
+LogPluginManager: Mounting plugin ArchVisCharacter
+LogPluginManager: Mounting plugin CableComponent
+LogPluginManager: Mounting plugin CustomMeshComponent
+LogPluginManager: Mounting plugin ExampleDeviceProfileSelector
+LogPluginManager: Mounting plugin GoogleCloudMessaging
+LogPluginManager: Mounting plugin ImmediatePhysics
+LogPluginManager: Mounting plugin IOSDeviceProfileSelector
+LogPluginManager: Mounting plugin LinuxDeviceProfileSelector
+LogPluginManager: Mounting plugin LocationServicesBPLibrary
+LogPluginManager: Mounting plugin MobilePatchingUtils
+LogPluginManager: Mounting plugin OculusVR
+LogPluginManager: Plugin shader directory ../../../Engine/Plugins/Runtime/Oculus/OculusVR/Shaders found
+LogPluginManager: Mapping shader source directory ../../../Engine/Plugins/Runtime/Oculus/OculusVR/Shaders to virtual directory /Plugin/OculusVR
+LogPluginManager: Mounting plugin PhysXVehicles
+LogPluginManager: Mounting plugin ProceduralMeshComponent
+LogPluginManager: Mounting plugin RuntimePhysXCooking
+LogPluginManager: Mounting plugin SteamVR
+LogPluginManager: Mounting plugin WindowsMoviePlayer
+LogInit: Using libcurl 7.47.1
+LogInit:  - built for x86_64-pc-win32
+LogInit:  - supports SSL with OpenSSL/1.0.2g
+LogInit:  - supports HTTP deflate (compression) using libz 1.2.8
+LogInit:  - other features:
+LogInit:      CURL_VERSION_SSL
+LogInit:      CURL_VERSION_LIBZ
+LogInit:      CURL_VERSION_IPV6
+LogInit:      CURL_VERSION_ASYNCHDNS
+LogInit:      CURL_VERSION_LARGEFILE
+LogInit:      CURL_VERSION_IDN
+LogInit:  CurlRequestOptions (configurable via config and command line):
+LogInit:  - bVerifyPeer = false  - Libcurl will NOT verify peer certificate
+LogInit:  - bUseHttpProxy = false  - Libcurl will NOT use HTTP proxy
+LogInit:  - bDontReuseConnections = false  - Libcurl will reuse connections
+LogInit:  - CertBundlePath = nullptr  - Libcurl will use whatever was configured at build time.
+LogInit: Build: ++UE4+Release-4.18-CL-3832480
+LogInit: Engine Version: 4.18.3-3832480+++UE4+Release-4.18
+LogInit: Compatible Engine Version: 4.18.0-3709383+++UE4+Release-4.18
+LogInit: Net CL: 3709383
+LogDevObjectVersion: Number of dev versions registered: 16
+LogDevObjectVersion:   Dev-Blueprints (B0D832E4-1F89-4F0D-ACCF-7EB736FD4AA2): 10
+LogDevObjectVersion:   Dev-Build (E1C64328-A22C-4D53-A36C-8E866417BD8C): 0
+LogDevObjectVersion:   Dev-Core (375EC13C-06E4-48FB-B500-84F0262A717E): 2
+LogDevObjectVersion:   Dev-Editor (E4B068ED-F494-42E9-A231-DA0B2E46BB41): 20
+LogDevObjectVersion:   Dev-Framework (CFFC743F-43B0-4480-9391-14DF171D2073): 30
+LogDevObjectVersion:   Dev-Mobile (B02B49B5-BB20-44E9-A304-32B752E40360): 0
+LogDevObjectVersion:   Dev-Networking (A4E4105C-59A1-49B5-A7C5-40C4547EDFEE): 0
+LogDevObjectVersion:   Dev-Online (39C831C9-5AE6-47DC-9A44-9C173E1C8E7C): 0
+LogDevObjectVersion:   Dev-Physics (78F01B33-EBEA-4F98-B9B4-84EACCB95AA2): 0
+LogDevObjectVersion:   Dev-Platform (6631380F-2D4D-43E0-8009-CF276956A95A): 0
+LogDevObjectVersion:   Dev-Rendering (12F88B9F-8875-4AFC-A67C-D90C383ABD29): 20
+LogDevObjectVersion:   Dev-Sequencer (7B5AE74C-D270-4C10-A958-57980B212A5A): 4
+LogDevObjectVersion:   Dev-VR (D7296918-1DD6-4BDD-9DE2-64A83CC13884): 0
+LogDevObjectVersion:   Dev-LoadTimes (C2A15278-BFE7-4AFE-6C17-90FF531DF755): 1
+LogDevObjectVersion:   Private-Geometry (6EACA3D4-40EC-4CC1-B786-8BED09428FC5): 1
+LogDevObjectVersion:   Dev-AnimPhys (29E575DD-E0A3-4627-9D10-D276232CDCEA): 12
+LogInit: Compiled (64-bit): Jan 12 2018 02:04:55
+LogInit: Compiled with Visual C++: 19.00.24215.01
+LogInit: Build Configuration: Development
+LogInit: Branch Name: ++UE4+Release-4.18
+LogInit: Command line: 
+LogInit: Base directory: C:/Program Files/Epic Games/UE_4.18/Engine/Binaries/Win64/
+LogInit: Installed Engine Build: 1
+LogInit: Presizing for max 8388607 objects, including 0 objects not considered by GC, pre-allocating 0 bytes for permanent pool.
+LogInit: Object subsystem initialized
+[2018.02.02-02.42.15:191][  0]LogInit: Selected Device Profile: [Windows]
+[2018.02.02-02.42.15:191][  0]LogInit: Applying CVar settings loaded from the selected device profile: [Windows]
+[2018.02.02-02.42.15:251][  0]LogInit: Computer: LINK
+[2018.02.02-02.42.15:251][  0]LogInit: User: brixo
+[2018.02.02-02.42.15:251][  0]LogInit: CPU Page size=4096, Cores=4
+[2018.02.02-02.42.15:251][  0]LogInit: High frequency timer resolution =2.046940 MHz
+[2018.02.02-02.42.15:252][  0]LogMemory: Memory total: Physical=15.9GB (16GB approx)
+[2018.02.02-02.42.15:252][  0]LogMemory: Platform Memory Stats for Windows
+[2018.02.02-02.42.15:252][  0]LogMemory: Process Physical Memory: 272.09 MB used, 272.09 MB peak
+[2018.02.02-02.42.15:252][  0]LogMemory: Process Virtual Memory: 263.83 MB used, 263.83 MB peak
+[2018.02.02-02.42.15:252][  0]LogMemory: Physical Memory: 7781.19 MB used,  8539.35 MB free, 16320.54 MB total
+[2018.02.02-02.42.15:252][  0]LogMemory: Virtual Memory: 670.84 MB used,  8539.35 MB free, 134217728.00 MB total
+[2018.02.02-02.42.16:138][  0]LogInit: Using OS detected language (en-US).
+[2018.02.02-02.42.16:138][  0]LogInit: Using OS detected locale (en-US).
+[2018.02.02-02.42.16:145][  0]LogTextLocalizationManager: No specific localization for 'en-US' exists, so the 'en' localization will be used.
+[2018.02.02-02.42.17:307][  0]LogInit: Setting process to per monitor DPI aware
+[2018.02.02-02.42.18:605][  0]LogD3D11RHI: D3D11 adapters:
+[2018.02.02-02.42.18:664][  0]LogD3D11RHI:    0. 'AMD Radeon (TM) R9 360' (Feature Level 11_0)
+[2018.02.02-02.42.18:664][  0]LogD3D11RHI:       2025/0/8160 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:2, VendorId:0x1002
+[2018.02.02-02.42.18:672][  0]LogD3D11RHI:    1. 'Microsoft Basic Render Driver' (Feature Level 11_0)
+[2018.02.02-02.42.18:672][  0]LogD3D11RHI:       0/0/8160 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:0, VendorId:0x1414
+[2018.02.02-02.42.18:672][  0]LogD3D11RHI: Chosen D3D11 Adapter: 0
+[2018.02.02-02.42.18:697][  0]LogD3D11RHI: Creating new Direct3DDevice
+[2018.02.02-02.42.18:697][  0]LogD3D11RHI:     GPU DeviceId: 0x665f (for the marketing name, search the web for "GPU Device Id")
+[2018.02.02-02.42.18:697][  0]LogWindows: EnumDisplayDevices:
+[2018.02.02-02.42.18:697][  0]LogWindows:    0. 'AMD Radeon (TM) R9 360' (P:1 D:1)
+[2018.02.02-02.42.18:698][  0]LogWindows:    1. 'AMD Radeon (TM) R9 360' (P:0 D:1)
+[2018.02.02-02.42.18:698][  0]LogWindows:    2. 'AMD Radeon (TM) R9 360' (P:0 D:0)
+[2018.02.02-02.42.18:698][  0]LogWindows:    3. 'AMD Radeon (TM) R9 360' (P:0 D:0)
+[2018.02.02-02.42.18:699][  0]LogWindows:    4. 'AMD Radeon (TM) R9 360' (P:0 D:0)
+[2018.02.02-02.42.18:699][  0]LogWindows:    5. 'AMD Radeon (TM) R9 360' (P:0 D:0)
+[2018.02.02-02.42.18:699][  0]LogWindows: DebugString: GetVideoDriverDetailsInvalid PrimaryIsNotTheChoosenAdapter GetVideoDriverDetailsInvalid PrimaryIsNotTheChoosenAdapter GetVideoDriverDetailsInvalid PrimaryIsNotTheChoosenAdapter GetVideoDriverDetailsInvalid PrimaryIsNotTheChoosenAdapter GetVideoDriverDetailsInvalid PrimaryIsNotTheChoosenAdapter GetVideoDriverDetailsInvalid PrimaryIsNotTheChoosenAdapter FoundDriverCount:0 
+[2018.02.02-02.42.18:699][  0]LogD3D11RHI:     Adapter Name: AMD Radeon (TM) R9 360
+[2018.02.02-02.42.18:699][  0]LogD3D11RHI:   Driver Version: Unknown (internal:Unknown, unified:Unknown)
+[2018.02.02-02.42.18:699][  0]LogD3D11RHI:      Driver Date: Unknown
+[2018.02.02-02.42.18:699][  0]LogRHI: Texture pool is 1417 MB (70% of 2025 MB)
+[2018.02.02-02.42.18:849][  0]LogD3D11RHI: Async texture creation enabled
+[2018.02.02-02.42.18:879][  0]LogD3D11RHI: GPU Timing Frequency: 27.000000 (Debug: 2 1)
+[2018.02.02-02.42.18:883][  0]LogShaderCompilers: Guid format shader working directory is -29 characters bigger than the processId version (../../../../../../Users/brixo/OneDrive/Documents/Unreal Projects/EETesting/Intermediate/Shaders/WorkingDirectory/18296/).
+[2018.02.02-02.42.18:883][  0]LogShaderCompilers: Cleaned the shader compiler working directory 'C:/Users/brixo/AppData/Local/Temp/UnrealShaderWorkingDir/9FAA07D347D8B3EE071E2EBCACEBFC12/'.
+[2018.02.02-02.42.18:883][  0]LogShaderCompilers: Display: Using Local Shader Compiler.
+[2018.02.02-02.42.24:671][  0]LogTemp: Display: Loaded TP AllDesktopTargetPlatform
+[2018.02.02-02.42.24:890][  0]LogTemp: Display: Loaded TP MacClientTargetPlatform
+[2018.02.02-02.42.25:162][  0]LogTemp: Display: Loaded TP MacNoEditorTargetPlatform
+[2018.02.02-02.42.25:448][  0]LogTemp: Display: Loaded TP MacServerTargetPlatform
+[2018.02.02-02.42.25:727][  0]LogTemp: Display: Loaded TP MacTargetPlatform
+[2018.02.02-02.42.25:932][  0]LogTemp: Display: Loaded TP WindowsClientTargetPlatform
+[2018.02.02-02.42.26:135][  0]LogTemp: Display: Loaded TP WindowsNoEditorTargetPlatform
+[2018.02.02-02.42.26:338][  0]LogTemp: Display: Loaded TP WindowsServerTargetPlatform
+[2018.02.02-02.42.26:528][  0]LogTemp: Display: Loaded TP WindowsTargetPlatform
+[2018.02.02-02.42.26:728][  0]LogTemp: Display: Loaded TP Android_ASTCTargetPlatform
+[2018.02.02-02.42.26:926][  0]LogTemp: Display: Loaded TP Android_ATCTargetPlatform
+[2018.02.02-02.42.27:118][  0]LogTemp: Display: Loaded TP Android_DXTTargetPlatform
+[2018.02.02-02.42.27:320][  0]LogTemp: Display: Loaded TP Android_ETC1TargetPlatform
+[2018.02.02-02.42.27:494][  0]LogTemp: Display: Loaded TP Android_ETC2TargetPlatform
+[2018.02.02-02.42.27:842][  0]LogTemp: Display: Loaded TP Android_MultiTargetPlatform
+[2018.02.02-02.42.27:842][  0]LogTemp: Display: Loaded TP Android_PVRTCTargetPlatform
+[2018.02.02-02.42.28:039][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2018.02.02-02.42.28:197][  0]LogTemp: Display: Loaded TP HTML5TargetPlatform
+[2018.02.02-02.42.28:446][  0]LogTemp: Display: Loaded TP IOSTargetPlatform
+[2018.02.02-02.42.28:534][  0]LogTemp: Display: Loaded TP TVOSTargetPlatform
+[2018.02.02-02.42.28:714][  0]LogTemp: Display: Loaded TP LinuxClientTargetPlatform
+[2018.02.02-02.42.28:884][  0]LogTemp: Display: Loaded TP LinuxNoEditorTargetPlatform
+[2018.02.02-02.42.29:052][  0]LogTemp: Display: Loaded TP LinuxServerTargetPlatform
+[2018.02.02-02.42.29:243][  0]LogTemp: Display: Loaded TP LinuxTargetPlatform
+[2018.02.02-02.42.29:243][  0]LogTargetPlatformManager: Display: Building Assets For Windows
+[2018.02.02-02.42.31:204][  0]LogDerivedDataCache: Display: Max Cache Size: 512 MB
+[2018.02.02-02.42.31:562][  0]LogDerivedDataCache: Loaded boot cache 0.36s 78MB C:/Users/brixo/AppData/Local/UnrealEngine/4.18/DerivedDataCache/Boot.ddc.
+[2018.02.02-02.42.31:562][  0]LogDerivedDataCache: Display: Loaded Boot cache: C:/Users/brixo/AppData/Local/UnrealEngine/4.18/DerivedDataCache/Boot.ddc
+[2018.02.02-02.42.31:563][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  Pak pak cache file ../../../../../../Users/brixo/OneDrive/Documents/Unreal Projects/EETesting/DerivedDataCache/DDC.ddp not found, will not use a pak cache.
+[2018.02.02-02.42.31:563][  0]LogDerivedDataCache: Unable to find inner node Pak for hierarchical cache Hierarchy.
+[2018.02.02-02.42.31:563][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  CompressedPak pak cache file ../../../../../../Users/brixo/OneDrive/Documents/Unreal Projects/EETesting/DerivedDataCache/Compressed.ddp not found, will not use a pak cache.
+[2018.02.02-02.42.31:563][  0]LogDerivedDataCache: Unable to find inner node CompressedPak for hierarchical cache Hierarchy.
+[2018.02.02-02.42.31:601][  0]LogDerivedDataCache: Display: Pak cache opened for reading ../../../Engine/DerivedDataCache/Compressed.ddp.
+[2018.02.02-02.42.31:616][  0]LogDerivedDataCache: Using Local data cache path C:/Users/brixo/AppData/Local/UnrealEngine/Common/DerivedDataCache: Writable
+[2018.02.02-02.42.31:643][  0]LogMaterial: Verifying Global Shaders for PCD3D_SM5
+[2018.02.02-02.42.31:644][  0]LogSlate: Using Freetype 2.6.0
+[2018.02.02-02.42.31:646][  0]LogSlate: SlateFontCache - WITH_FREETYPE: 1, WITH_HARFBUZZ: 1
+[2018.02.02-02.42.31:646][  0]LogSlate: SlateFontCache - WITH_FREETYPE: 1, WITH_HARFBUZZ: 1
+[2018.02.02-02.42.32:767][  0]LogInit: Selected Device Profile: [Windows]
+[2018.02.02-02.42.33:972][  0]LogSimplygon: Simplygon DLL not present - disabling.
+[2018.02.02-02.42.34:143][  0]LogMeshReduction: Using SimplygonSwarm for distributed automatic mesh merging
+[2018.02.02-02.42.34:143][  0]LogMeshReduction: Using QuadricMeshReduction for automatic static mesh reduction
+[2018.02.02-02.42.34:143][  0]LogMeshReduction: No automatic skeletal mesh reduction module available
+[2018.02.02-02.42.34:143][  0]LogMeshReduction: No automatic mesh merging module available
+[2018.02.02-02.42.34:143][  0]LogMeshMerging: No automatic mesh merging module available
+[2018.02.02-02.42.34:447][  0]LogNetVersion: EETesting , NetCL: 3709383, EngineNetVer: 2, GameNetVer: 0 (Checksum: 1087286653)
+[2018.02.02-02.42.34:984][  0]LogAssetRegistry: FAssetRegistry took 0.0341 seconds to start up
+[2018.02.02-02.42.37:526][  0]LogPackageLocalizationCache: Processed 7 localized package path(s) for 2 prioritized culture(s) in 0.365800 seconds
+[2018.02.02-02.42.37:547][  0]LogUObjectArray: 35870 objects as part of root set at end of initial load.
+[2018.02.02-02.42.37:547][  0]LogUObjectAllocator: 7363696 out of 0 bytes used by permanent object pool.
+[2018.02.02-02.42.37:547][  0]LogUObjectArray: CloseDisregardForGC: 0/0 objects in disregard for GC pool
+[2018.02.02-02.42.37:802][  0]LogInit: WinSock: version 1.1 (2.2), MaxSocks=32767, MaxUdp=65467
+[2018.02.02-02.42.50:426][  0]LogTcpMessaging: Initializing TcpMessaging bridge
+[2018.02.02-02.42.50:566][  0]LogUdpMessaging: Initializing bridge on interface 0.0.0.0:0 to multicast group 230.0.0.1:6666.
+[2018.02.02-02.42.53:197][  0]LogMaterial: Uniform references updated for custom material expression Custom.
+[2018.02.02-02.42.54:846][  0]SourceControl: Source control is disabled
+[2018.02.02-02.42.54:846][  0]SourceControl: Source control is disabled
+[2018.02.02-02.42.55:071][  0]SourceControl: Source control is disabled
+[2018.02.02-02.42.55:291][  0]SourceControl: Source control is disabled
+[2018.02.02-02.42.58:874][  0]LogAndroidPermission: UAndroidPermissionCallbackProxy::GetInstance
+[2018.02.02-02.42.59:835][  0]LogOcInput: OculusInput pre-init called
+[2018.02.02-02.43.00:825][  0]LogEngine: Initializing Engine...
+[2018.02.02-02.43.00:831][  0]LogHMD: Failed to initialize OpenVR with code 110
+[2018.02.02-02.43.01:675][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: Construct from data asset -  0.000 s
+[2018.02.02-02.43.01:675][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: GameplayTagTreeChangedEvent.Broadcast -  0.000 s
+[2018.02.02-02.43.02:125][  0]LogAIModule: Creating AISystem for world Untitled
+[2018.02.02-02.43.02:152][  0]LogInit: XAudio2 using 'Headset Earphone (3- Corsair Gaming H2100 Headset)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2018.02.02-02.43.02:188][  0]LogInit: FAudioDevice initialized.
+[2018.02.02-02.43.02:448][  0]LogDerivedDataCache: Saved boot cache 0.26s 78MB C:/Users/brixo/AppData/Local/UnrealEngine/4.18/DerivedDataCache/Boot.ddc.
+[2018.02.02-02.43.02:508][  0]LogInit: Texture streaming: Enabled
+[2018.02.02-02.43.02:862][  0]LogEngineSessionManager: EngineSessionManager initialized
+[2018.02.02-02.43.03:343][  0]LogInit: Transaction tracking system initialized
+[2018.02.02-02.43.04:461][  0]BlueprintLog: New page: Editor Load
+[2018.02.02-02.43.07:750][  0]LocalizationService: Localization service is disabled
+[2018.02.02-02.43.10:422][  0]LogConsoleResponse: Display: 
+[2018.02.02-02.43.10:990][  0]LogCook: Display: Max memory allowance for cook 16384mb min free memory 0mb
+[2018.02.02-02.43.10:990][  0]LogCook: Display: Mobile HDR setting 1
+[2018.02.02-02.43.10:990][  0]LogGameplayTags: Display: UGameplayTagsManager::DoneAddingNativeTags. DelegateIsBound: 0
+[2018.02.02-02.43.11:897][  0]LogFileCache: Scanning file cache for directory 'C:/Users/brixo/OneDrive/Documents/Unreal Projects/EETesting/Content/' took 0.03s
+[2018.02.02-02.43.15:406][  0]SourceControl: Source control is disabled
+[2018.02.02-02.43.15:406][  0]Cmd: MAP LOAD FILE="../../../../../../Users/brixo/OneDrive/Documents/Unreal Projects/EETesting/Content/VehicleAdvBP/Maps/VehicleAdvExampleMap.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2018.02.02-02.43.15:408][  0]LightingResults: New page: Lighting Build
+[2018.02.02-02.43.15:546][  0]MapCheck: New page: Map Check
+[2018.02.02-02.43.15:546][  0]LightingResults: New page: Lighting Build
+[2018.02.02-02.43.18:766][  0]LogAIModule: Creating AISystem for world VehicleAdvExampleMap
+[2018.02.02-02.43.19:760][  0]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2018.02.02-02.43.19:811][  0]Cmd: MAP CHECKDEP NOCLEARLOG
+[2018.02.02-02.43.19:975][  0]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 163.976ms to complete.
+[2018.02.02-02.43.19:975][  0]LogFileHelpers: Loading map 'VehicleAdvExampleMap' took 4.569
+[2018.02.02-02.43.20:455][  0]LogCollectionManager: Loaded 0 collections in 0.004436 seconds
+[2018.02.02-02.43.20:666][  0]LogFileCache: Scanning file cache for directory 'C:/Users/brixo/OneDrive/Documents/Unreal Projects/EETesting/Saved/Collections/' took 0.01s
+[2018.02.02-02.43.20:666][  0]LogFileCache: Scanning file cache for directory 'C:/Users/brixo/OneDrive/Documents/Unreal Projects/EETesting/Content/Developers/brixo/Collections/' took 0.01s
+[2018.02.02-02.43.20:667][  0]LogFileCache: Scanning file cache for directory 'C:/Users/brixo/OneDrive/Documents/Unreal Projects/EETesting/Content/Collections/' took 0.01s
+[2018.02.02-02.43.20:667][  0]LogCollectionManager: Rebuilt the GUID cache for 0 collections in 0.000001 seconds
+[2018.02.02-02.43.20:684][  0]LogContentBrowser: Native class hierarchy populated in 0.0175 seconds. Added 2365 classes and 522 folders.
+[2018.02.02-02.43.20:900][  0]LogContentBrowser: Native class hierarchy updated for 'WidgetCarousel' in 0.0005 seconds. Added 0 classes and 0 folders.
+[2018.02.02-02.43.22:870][  0]LogContentBrowser: Native class hierarchy updated for 'AddContentDialog' in 0.0005 seconds. Added 0 classes and 0 folders.
+[2018.02.02-02.43.23:061][  0]LogContentBrowser: Native class hierarchy updated for 'SceneOutliner' in 0.0006 seconds. Added 1 classes and 2 folders.
+[2018.02.02-02.43.27:330][  0]LogSlate: Only BGRA pngs, bmps or icos are supported in by External Image Picker
+[2018.02.02-02.43.27:489][  0]LogSlate: Took 0.000711 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Regular.ttf' (155K)
+[2018.02.02-02.43.27:494][  0]LogSlate: Took 0.000859 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Bold.ttf' (160K)
+[2018.02.02-02.43.27:544][  0]LogTemp: Executing iPhonePackager certificates Engine -bundlename com.YourCompany.EETesting
+[2018.02.02-02.43.27:544][  0]LogTemp: CWD: C:\Program Files\Epic Games\UE_4.18\Engine\Binaries\DotNET\IOS
+[2018.02.02-02.43.27:544][  0]LogTemp: Initial Dir: C:\Program Files\Epic Games\UE_4.18
+[2018.02.02-02.43.27:544][  0]LogTemp: Env CWD: C:\Program Files\Epic Games\UE_4.18\Engine\Binaries\DotNET\IOS
+[2018.02.02-02.43.27:544][  0]LogTemp: BranchPath = LINK/C/Program Files/Epic Games/UE_4.18/Engine/Binaries --- GameBranchPath = LINK/C/Program Files/Epic Games/UE_4.18/Engine/Binaries
+[2018.02.02-02.43.27:544][  0]LogSlate: Took 0.030658 seconds to synchronously load lazily loaded font '../../../Engine/Content/Editor/Slate/Fonts/FontAwesome.ttf' (139K)
+[2018.02.02-02.43.28:137][  0]LogTemp: IPP ERROR: Could not find provision directory 'C:\Users\brixo\AppData\Local/Apple Computer/MobileDevice/Provisioning Profiles/'.
+[2018.02.02-02.43.28:138][  0]LogRenderer: Reallocating scene render targets to support 1208x576 Format 10 NumSamples 1 (Frame:1).
+[2018.02.02-02.43.28:642][  0]LogContentBrowser: Native class hierarchy updated for 'HierarchicalLODOutliner' in 0.0006 seconds. Added 1 classes and 2 folders.
+[2018.02.02-02.43.28:642][  0]LogLoad: (Engine Initialization) Total time: 87.48 seconds
+[2018.02.02-02.43.28:642][  0]LogLoad: (Engine Initialization) Total Blueprint compile time: 0.00 seconds
+[2018.02.02-02.43.28:643][  0]LogExternalProfiler: Found external profiler: VSPerf
+[2018.02.02-02.43.28:643][  0]LogExternalProfiler: Using external profiler: VSPerf
+[2018.02.02-02.43.28:986][  0]LogRawInputWindows: Warning: Found device 0 devices
+[2018.02.02-02.43.28:986][  0]LogRawInputWindows: Warning: Found device 0 devices
+[2018.02.02-02.43.28:986][  0]LogRawInputWindows: Warning: Device was registered succesfully but not connected (Usage:4 UsagePage:1)
+[2018.02.02-02.43.28:986][  0]LogRawInputWindows: Warning: Found device 1 devices
+[2018.02.02-02.43.28:986][  0]LogRawInputWindows: Warning: Device was registered succesfully but not connected (Usage:5 UsagePage:1)
+[2018.02.02-02.43.29:023][  0]LogContentStreaming: Texture pool size now 1000 MB
+[2018.02.02-02.43.29:195][  0]LogSlate: Took 0.021176 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (159K)
+[2018.02.02-02.43.30:012][  3]LogSlate: Took 0.000964 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (159K)
+[2018.02.02-02.43.30:328][  4]LogAssetRegistry: Asset discovery search completed in 55.3679 seconds
+[2018.02.02-02.43.30:332][  4]LogCollectionManager: Rebuilt the object cache for 0 collections in 0.000001 seconds (found 0 objects)
+[2018.02.02-02.43.30:333][  4]LogCollectionManager: Fixed up redirectors for 0 collections in 0.000194 seconds (updated 0 objects)
+[2018.02.02-02.43.42:658][ 41]LogTemp: Repeating last play command: Selected Viewport
+[2018.02.02-02.43.42:832][ 41]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.02.02-02.43.42:853][ 41]PIE: New page: PIE session: VehicleAdvExampleMap (Feb 1, 2018, 2:43:42 PM)
+[2018.02.02-02.43.42:854][ 41]LogPlayLevel: Creating play world package: /Game/VehicleAdvBP/Maps/UEDPIE_0_VehicleAdvExampleMap
+[2018.02.02-02.43.42:961][ 41]LogPlayLevel: PIE: StaticDuplicateObject took: (0.106640s)
+[2018.02.02-02.43.42:963][ 41]LogAIModule: Creating AISystem for world VehicleAdvExampleMap
+[2018.02.02-02.43.42:963][ 41]LogPlayLevel: PIE: World Init took: (0.002267s)
+[2018.02.02-02.43.42:964][ 41]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/VehicleAdvBP/Maps/VehicleAdvExampleMap.VehicleAdvExampleMap to /Game/VehicleAdvBP/Maps/UEDPIE_0_VehicleAdvExampleMap.VehicleAdvExampleMap (0.109713s)
+[2018.02.02-02.43.42:997][ 41]LogInit: XAudio2 using 'Headset Earphone (3- Corsair Gaming H2100 Headset)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2018.02.02-02.43.43:020][ 41]LogInit: FAudioDevice initialized.
+[2018.02.02-02.43.44:591][ 41]LogLoad: Game class is 'VehicleAdvGameMode_C'
+[2018.02.02-02.43.44:613][ 41]LogWorld: Bringing World /Game/VehicleAdvBP/Maps/UEDPIE_0_VehicleAdvExampleMap.VehicleAdvExampleMap up for play (max tick rate 0) at 2018.02.01-20.43.44
+[2018.02.02-02.43.44:616][ 41]LogWorld: Bringing up level for play took: 0.012827
+[2018.02.02-02.43.44:766][ 41]LogContentBrowser: Native class hierarchy updated for 'MovieSceneCapture' in 0.0007 seconds. Added 11 classes and 0 folders.
+[2018.02.02-02.43.44:771][ 41]PIE: Play in editor start time for /Game/VehicleAdvBP/Maps/UEDPIE_0_VehicleAdvExampleMap 1.328
+[2018.02.02-02.56.10:892][604]LogSlate: Took 0.000558 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (159K)
+[2018.02.02-02.56.11:988][604]LogSlate: Took 0.000441 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Regular.ttf' (155K)
+[2018.02.02-02.56.12:441][604]LogContentBrowser: Native class hierarchy updated for 'BlueprintGraph' in 0.0011 seconds. Added 116 classes and 0 folders.
+[2018.02.02-02.56.16:372][604]LogSlate: Took 0.025227 seconds to synchronously load lazily loaded font '../../../Engine/Content/Editor/Slate/Fonts/Roboto-BoldCondensed.ttf' (158K)
+[2018.02.02-02.56.18:020][605]LogSlate: Took 0.033255 seconds to synchronously load lazily loaded font '../../../Engine/Content/Editor/Slate/Fonts/Roboto-Italic.ttf' (157K)
+[2018.02.02-03.00.30:198][386]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/VehicleAdvBP/Maps/VehicleAdvExampleMap' took 0.065
+[2018.02.02-03.00.30:236][386]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/VehicleAdvBP/Blueprints/HoverComponent] ([1] browsable assets)...
+[2018.02.02-03.00.30:246][386]OBJ SavePackage: Finished generating thumbnails for package [/Game/VehicleAdvBP/Blueprints/HoverComponent]
+[2018.02.02-03.00.30:647][386]LogSavePackage: Save=250.98ms
+[2018.02.02-03.00.30:647][386]LogSavePackage: Moving '../../../../../../Users/brixo/OneDrive/Documents/Unreal Projects/EETesting/Saved/HoverComponent_Auto10651C94B410B9FD58BC17C89E0F77AB0.tmp' to '../../../../../../Users/brixo/OneDrive/Documents/Unreal Projects/EETesting/Saved/Autosaves/Game/VehicleAdvBP/Blueprints/HoverComponent_Auto1.uasset'
+[2018.02.02-03.00.30:652][386]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/brixo/OneDrive/Documents/Unreal Projects/EETesting/Saved/Autosaves/Game/VehicleAdvBP/Blueprints/HoverComponent_Auto1.uasset
+[2018.02.02-03.00.30:652][386]LogFileHelpers: Auto-saving content packages took 0.453
+[2018.02.02-03.01.46:077][881]BlueprintLog: New page: Compile HoverComponent
+[2018.02.02-03.01.47:265][901]LogSavePackage: Save=167.95ms
+[2018.02.02-03.01.47:268][901]LogSavePackage: Moving '../../../../../../Users/brixo/OneDrive/Documents/Unreal Projects/EETesting/Saved/HoverComponent74A638C2407DA3EE098C13AEC3DE6671.tmp' to '../../../../../../Users/brixo/OneDrive/Documents/Unreal Projects/EETesting/Content/VehicleAdvBP/Blueprints/HoverComponent.uasset'
+[2018.02.02-03.01.47:291][901]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/brixo/OneDrive/Documents/Unreal Projects/EETesting/Content/VehicleAdvBP/Blueprints/HoverComponent.uasset
+[2018.02.02-03.01.48:012][934]LogTemp: Repeating last play command: Selected Viewport
+[2018.02.02-03.01.48:061][934]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.02.02-03.01.48:062][934]PIE: New page: PIE session: VehicleAdvExampleMap (Feb 1, 2018, 3:01:48 PM)
+[2018.02.02-03.01.48:062][934]LogPlayLevel: Creating play world package: /Game/VehicleAdvBP/Maps/UEDPIE_0_VehicleAdvExampleMap
+[2018.02.02-03.01.48:134][934]LogPlayLevel: PIE: StaticDuplicateObject took: (0.071383s)
+[2018.02.02-03.01.48:136][934]LogAIModule: Creating AISystem for world VehicleAdvExampleMap
+[2018.02.02-03.01.48:137][934]LogPlayLevel: PIE: World Init took: (0.002603s)
+[2018.02.02-03.01.48:137][934]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/VehicleAdvBP/Maps/VehicleAdvExampleMap.VehicleAdvExampleMap to /Game/VehicleAdvBP/Maps/UEDPIE_0_VehicleAdvExampleMap.VehicleAdvExampleMap (0.074869s)
+[2018.02.02-03.01.48:198][934]LogInit: XAudio2 using 'Headset Earphone (3- Corsair Gaming H2100 Headset)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2018.02.02-03.01.48:220][934]LogInit: FAudioDevice initialized.
+[2018.02.02-03.01.48:349][934]LogLoad: Game class is 'VehicleAdvGameMode_C'
+[2018.02.02-03.01.48:367][934]LogWorld: Bringing World /Game/VehicleAdvBP/Maps/UEDPIE_0_VehicleAdvExampleMap.VehicleAdvExampleMap up for play (max tick rate 0) at 2018.02.01-21.01.48
+[2018.02.02-03.01.48:369][934]LogWorld: Bringing up level for play took: 0.012007
+[2018.02.02-03.01.48:384][934]PIE: Play in editor start time for /Game/VehicleAdvBP/Maps/UEDPIE_0_VehicleAdvExampleMap 0.941
+[2018.02.02-03.01.48:493][934]LogRenderer: Reallocating scene render targets to support 1292x756 Format 10 NumSamples 1 (Frame:1).
+[2018.02.02-03.05.03:839][686]BlueprintLog: New page: Compile ArcadeCar
+[2018.02.02-03.05.05:886][704]LogSavePackage: Save=212.48ms
+[2018.02.02-03.05.05:886][704]LogSavePackage: Moving '../../../../../../Users/brixo/OneDrive/Documents/Unreal Projects/EETesting/Saved/ArcadeCar70134C4D4E11247660FD63882573CA3B.tmp' to '../../../../../../Users/brixo/OneDrive/Documents/Unreal Projects/EETesting/Content/VehicleAdvBP/Blueprints/ArcadeCar.uasset'
+[2018.02.02-03.05.05:897][704]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/brixo/OneDrive/Documents/Unreal Projects/EETesting/Content/VehicleAdvBP/Blueprints/ArcadeCar.uasset
+[2018.02.02-03.05.07:085][759]LogTemp: Repeating last play command: Selected Viewport
+[2018.02.02-03.05.07:173][759]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.02.02-03.05.07:174][759]PIE: New page: PIE session: VehicleAdvExampleMap (Feb 1, 2018, 3:05:07 PM)
+[2018.02.02-03.05.07:174][759]LogPlayLevel: Creating play world package: /Game/VehicleAdvBP/Maps/UEDPIE_0_VehicleAdvExampleMap
+[2018.02.02-03.05.07:242][759]LogPlayLevel: PIE: StaticDuplicateObject took: (0.068021s)
+[2018.02.02-03.05.07:245][759]LogAIModule: Creating AISystem for world VehicleAdvExampleMap
+[2018.02.02-03.05.07:246][759]LogPlayLevel: PIE: World Init took: (0.003884s)
+[2018.02.02-03.05.07:247][759]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/VehicleAdvBP/Maps/VehicleAdvExampleMap.VehicleAdvExampleMap to /Game/VehicleAdvBP/Maps/UEDPIE_0_VehicleAdvExampleMap.VehicleAdvExampleMap (0.072710s)
+[2018.02.02-03.05.07:321][759]LogInit: XAudio2 using 'Headset Earphone (3- Corsair Gaming H2100 Headset)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2018.02.02-03.05.07:341][759]LogInit: FAudioDevice initialized.
+[2018.02.02-03.05.07:458][759]LogLoad: Game class is 'VehicleAdvGameMode_C'
+[2018.02.02-03.05.07:471][759]LogWorld: Bringing World /Game/VehicleAdvBP/Maps/UEDPIE_0_VehicleAdvExampleMap.VehicleAdvExampleMap up for play (max tick rate 0) at 2018.02.01-21.05.07
+[2018.02.02-03.05.07:473][759]LogWorld: Bringing up level for play took: 0.010332
+[2018.02.02-03.05.07:483][759]PIE: Play in editor start time for /Game/VehicleAdvBP/Maps/UEDPIE_0_VehicleAdvExampleMap 0.04
+[2018.02.02-03.08.34:684][194]BlueprintLog: New page: Compile ArcadeCar
+[2018.02.02-03.08.36:615][235]LogSavePackage: Save=172.35ms
+[2018.02.02-03.08.36:615][235]LogSavePackage: Moving '../../../../../../Users/brixo/OneDrive/Documents/Unreal Projects/EETesting/Saved/ArcadeCarA92CA06442853AE5EEB5B784CE131D74.tmp' to '../../../../../../Users/brixo/OneDrive/Documents/Unreal Projects/EETesting/Content/VehicleAdvBP/Blueprints/ArcadeCar.uasset'
+[2018.02.02-03.08.36:631][235]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/brixo/OneDrive/Documents/Unreal Projects/EETesting/Content/VehicleAdvBP/Blueprints/ArcadeCar.uasset
+[2018.02.02-03.09.23:461][783]BlueprintLog: New page: Compile ArcadeCar
+[2018.02.02-03.09.25:181][807]LogSavePackage: Save=189.07ms
+[2018.02.02-03.09.25:181][807]LogSavePackage: Moving '../../../../../../Users/brixo/OneDrive/Documents/Unreal Projects/EETesting/Saved/ArcadeCarCDA6E29B4B17237CCBC73DA04971F921.tmp' to '../../../../../../Users/brixo/OneDrive/Documents/Unreal Projects/EETesting/Content/VehicleAdvBP/Blueprints/ArcadeCar.uasset'
+[2018.02.02-03.09.25:195][807]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/brixo/OneDrive/Documents/Unreal Projects/EETesting/Content/VehicleAdvBP/Blueprints/ArcadeCar.uasset
+[2018.02.02-03.09.40:332][651]LogBlueprint: Warning: [HoverComponent] 'Body' variable not found. Base class was probably changed. /Game/VehicleAdvBP/Blueprints/HoverComponent.HoverComponent
+[2018.02.02-03.11.21:910][996]BlueprintLog: New page: Compile HoverComponent
+[2018.02.02-03.11.22:013][996]LogBlueprint: Error: [Compiler HoverComponent] This blueprint (self) is not a PrimitiveComponent, therefore ' Target ' must have a connection.
+[2018.02.02-03.11.22:123][996]LogBlueprint: Warning: [Compiler HoverComponent] [1760.96] Compile of HoverComponent failed. 1 Fatal Issue(s) 0 Warning(s) [in 212 ms] (/Game/VehicleAdvBP/Blueprints/HoverComponent.HoverComponent)
+[2018.02.02-03.11.22:941][ 20]LogSavePackage: Save=182.61ms
+[2018.02.02-03.11.22:941][ 20]LogSavePackage: Moving '../../../../../../Users/brixo/OneDrive/Documents/Unreal Projects/EETesting/Saved/HoverComponent1E3C69EA4E9B9B7FB5DFAC8C624556FB.tmp' to '../../../../../../Users/brixo/OneDrive/Documents/Unreal Projects/EETesting/Content/VehicleAdvBP/Blueprints/HoverComponent.uasset'
+[2018.02.02-03.11.22:952][ 20]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/brixo/OneDrive/Documents/Unreal Projects/EETesting/Content/VehicleAdvBP/Blueprints/HoverComponent.uasset
+[2018.02.02-03.11.31:388][473]BlueprintLog: New page: Compile HoverComponent
+[2018.02.02-03.11.32:471][501]LogSavePackage: Save=206.05ms
+[2018.02.02-03.11.32:471][501]LogSavePackage: Moving '../../../../../../Users/brixo/OneDrive/Documents/Unreal Projects/EETesting/Saved/HoverComponent5119DEC14CBAE03EA5286A9A4B53813D.tmp' to '../../../../../../Users/brixo/OneDrive/Documents/Unreal Projects/EETesting/Content/VehicleAdvBP/Blueprints/HoverComponent.uasset'
+[2018.02.02-03.11.32:482][501]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/brixo/OneDrive/Documents/Unreal Projects/EETesting/Content/VehicleAdvBP/Blueprints/HoverComponent.uasset
+[2018.02.02-03.11.33:664][559]LogTemp: Repeating last play command: Selected Viewport
+[2018.02.02-03.11.33:722][559]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.02.02-03.11.33:722][559]PIE: New page: PIE session: VehicleAdvExampleMap (Feb 1, 2018, 3:11:33 PM)
+[2018.02.02-03.11.33:722][559]LogPlayLevel: Creating play world package: /Game/VehicleAdvBP/Maps/UEDPIE_0_VehicleAdvExampleMap
+[2018.02.02-03.11.33:797][559]LogPlayLevel: PIE: StaticDuplicateObject took: (0.074235s)
+[2018.02.02-03.11.33:799][559]LogAIModule: Creating AISystem for world VehicleAdvExampleMap
+[2018.02.02-03.11.33:800][559]LogPlayLevel: PIE: World Init took: (0.002545s)
+[2018.02.02-03.11.33:800][559]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/VehicleAdvBP/Maps/VehicleAdvExampleMap.VehicleAdvExampleMap to /Game/VehicleAdvBP/Maps/UEDPIE_0_VehicleAdvExampleMap.VehicleAdvExampleMap (0.077620s)
+[2018.02.02-03.11.33:876][559]LogInit: XAudio2 using 'Headset Earphone (3- Corsair Gaming H2100 Headset)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2018.02.02-03.11.33:904][559]LogInit: FAudioDevice initialized.
+[2018.02.02-03.11.34:018][559]LogLoad: Game class is 'VehicleAdvGameMode_C'
+[2018.02.02-03.11.34:035][559]LogWorld: Bringing World /Game/VehicleAdvBP/Maps/UEDPIE_0_VehicleAdvExampleMap.VehicleAdvExampleMap up for play (max tick rate 0) at 2018.02.01-21.11.34
+[2018.02.02-03.11.34:036][559]LogWorld: Bringing up level for play took: 0.011293
+[2018.02.02-03.11.34:047][559]PIE: Play in editor start time for /Game/VehicleAdvBP/Maps/UEDPIE_0_VehicleAdvExampleMap 0.604
+[2018.02.02-03.11.50:223][332]BlueprintLog: New page: Compile HoverComponent
+[2018.02.02-03.11.51:205][360]LogSavePackage: Save=195.86ms
+[2018.02.02-03.11.51:205][360]LogSavePackage: Moving '../../../../../../Users/brixo/OneDrive/Documents/Unreal Projects/EETesting/Saved/HoverComponent91912A784B2A4F7A4B4959AD1119CA94.tmp' to '../../../../../../Users/brixo/OneDrive/Documents/Unreal Projects/EETesting/Content/VehicleAdvBP/Blueprints/HoverComponent.uasset'
+[2018.02.02-03.11.51:215][360]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/brixo/OneDrive/Documents/Unreal Projects/EETesting/Content/VehicleAdvBP/Blueprints/HoverComponent.uasset
+[2018.02.02-03.11.52:346][418]LogTemp: Repeating last play command: Selected Viewport
+[2018.02.02-03.11.52:402][418]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.02.02-03.11.52:402][418]PIE: New page: PIE session: VehicleAdvExampleMap (Feb 1, 2018, 3:11:52 PM)
+[2018.02.02-03.11.52:403][418]LogPlayLevel: Creating play world package: /Game/VehicleAdvBP/Maps/UEDPIE_0_VehicleAdvExampleMap
+[2018.02.02-03.11.52:465][418]LogPlayLevel: PIE: StaticDuplicateObject took: (0.062731s)
+[2018.02.02-03.11.52:467][418]LogAIModule: Creating AISystem for world VehicleAdvExampleMap
+[2018.02.02-03.11.52:467][418]LogPlayLevel: PIE: World Init took: (0.002012s)
+[2018.02.02-03.11.52:468][418]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/VehicleAdvBP/Maps/VehicleAdvExampleMap.VehicleAdvExampleMap to /Game/VehicleAdvBP/Maps/UEDPIE_0_VehicleAdvExampleMap.VehicleAdvExampleMap (0.065874s)
+[2018.02.02-03.11.52:539][418]LogInit: XAudio2 using 'Headset Earphone (3- Corsair Gaming H2100 Headset)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2018.02.02-03.11.52:561][418]LogInit: FAudioDevice initialized.
+[2018.02.02-03.11.52:668][418]LogLoad: Game class is 'VehicleAdvGameMode_C'
+[2018.02.02-03.11.52:684][418]LogWorld: Bringing World /Game/VehicleAdvBP/Maps/UEDPIE_0_VehicleAdvExampleMap.VehicleAdvExampleMap up for play (max tick rate 0) at 2018.02.01-21.11.52
+[2018.02.02-03.11.52:685][418]LogWorld: Bringing up level for play took: 0.011031
+[2018.02.02-03.11.52:700][418]PIE: Play in editor start time for /Game/VehicleAdvBP/Maps/UEDPIE_0_VehicleAdvExampleMap 1.256
+[2018.02.02-03.12.10:215][244]BlueprintLog: New page: Compile HoverComponent
+[2018.02.02-03.12.11:262][273]LogSavePackage: Save=202.07ms
+[2018.02.02-03.12.11:262][273]LogSavePackage: Moving '../../../../../../Users/brixo/OneDrive/Documents/Unreal Projects/EETesting/Saved/HoverComponent094CC0F648CCDB46AFA6DEA725232C4E.tmp' to '../../../../../../Users/brixo/OneDrive/Documents/Unreal Projects/EETesting/Content/VehicleAdvBP/Blueprints/HoverComponent.uasset'
+[2018.02.02-03.12.11:274][273]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/brixo/OneDrive/Documents/Unreal Projects/EETesting/Content/VehicleAdvBP/Blueprints/HoverComponent.uasset
+[2018.02.02-03.12.12:164][317]LogTemp: Repeating last play command: Selected Viewport
+[2018.02.02-03.12.12:214][317]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.02.02-03.12.12:215][317]PIE: New page: PIE session: VehicleAdvExampleMap (Feb 1, 2018, 3:12:12 PM)
+[2018.02.02-03.12.12:215][317]LogPlayLevel: Creating play world package: /Game/VehicleAdvBP/Maps/UEDPIE_0_VehicleAdvExampleMap
+[2018.02.02-03.12.12:286][317]LogPlayLevel: PIE: StaticDuplicateObject took: (0.070129s)
+[2018.02.02-03.12.12:288][317]LogAIModule: Creating AISystem for world VehicleAdvExampleMap
+[2018.02.02-03.12.12:288][317]LogPlayLevel: PIE: World Init took: (0.002752s)
+[2018.02.02-03.12.12:289][317]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/VehicleAdvBP/Maps/VehicleAdvExampleMap.VehicleAdvExampleMap to /Game/VehicleAdvBP/Maps/UEDPIE_0_VehicleAdvExampleMap.VehicleAdvExampleMap (0.073715s)
+[2018.02.02-03.12.12:353][317]LogInit: XAudio2 using 'Headset Earphone (3- Corsair Gaming H2100 Headset)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2018.02.02-03.12.12:373][317]LogInit: FAudioDevice initialized.
+[2018.02.02-03.12.12:488][317]LogLoad: Game class is 'VehicleAdvGameMode_C'
+[2018.02.02-03.12.12:503][317]LogWorld: Bringing World /Game/VehicleAdvBP/Maps/UEDPIE_0_VehicleAdvExampleMap.VehicleAdvExampleMap up for play (max tick rate 0) at 2018.02.01-21.12.12
+[2018.02.02-03.12.12:504][317]LogWorld: Bringing up level for play took: 0.012169
+[2018.02.02-03.12.12:516][317]PIE: Play in editor start time for /Game/VehicleAdvBP/Maps/UEDPIE_0_VehicleAdvExampleMap 1.072
+[2018.02.02-03.12.42:370][764]BlueprintLog: New page: Compile HoverComponent
+[2018.02.02-03.12.43:316][787]LogSavePackage: Save=198.63ms
+[2018.02.02-03.12.43:316][787]LogSavePackage: Moving '../../../../../../Users/brixo/OneDrive/Documents/Unreal Projects/EETesting/Saved/HoverComponent0980A0C14B513EA501A827B99AFAA110.tmp' to '../../../../../../Users/brixo/OneDrive/Documents/Unreal Projects/EETesting/Content/VehicleAdvBP/Blueprints/HoverComponent.uasset'
+[2018.02.02-03.12.43:327][787]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/brixo/OneDrive/Documents/Unreal Projects/EETesting/Content/VehicleAdvBP/Blueprints/HoverComponent.uasset
+[2018.02.02-03.12.43:927][814]LogTemp: Repeating last play command: Selected Viewport
+[2018.02.02-03.12.43:982][814]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.02.02-03.12.43:983][814]PIE: New page: PIE session: VehicleAdvExampleMap (Feb 1, 2018, 3:12:43 PM)
+[2018.02.02-03.12.43:983][814]LogPlayLevel: Creating play world package: /Game/VehicleAdvBP/Maps/UEDPIE_0_VehicleAdvExampleMap
+[2018.02.02-03.12.44:056][814]LogPlayLevel: PIE: StaticDuplicateObject took: (0.073314s)
+[2018.02.02-03.12.44:058][814]LogAIModule: Creating AISystem for world VehicleAdvExampleMap
+[2018.02.02-03.12.44:059][814]LogPlayLevel: PIE: World Init took: (0.002952s)
+[2018.02.02-03.12.44:060][814]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/VehicleAdvBP/Maps/VehicleAdvExampleMap.VehicleAdvExampleMap to /Game/VehicleAdvBP/Maps/UEDPIE_0_VehicleAdvExampleMap.VehicleAdvExampleMap (0.077274s)
+[2018.02.02-03.12.44:136][814]LogInit: XAudio2 using 'Headset Earphone (3- Corsair Gaming H2100 Headset)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2018.02.02-03.12.44:155][814]LogInit: FAudioDevice initialized.
+[2018.02.02-03.12.44:264][814]LogLoad: Game class is 'VehicleAdvGameMode_C'
+[2018.02.02-03.12.44:279][814]LogWorld: Bringing World /Game/VehicleAdvBP/Maps/UEDPIE_0_VehicleAdvExampleMap.VehicleAdvExampleMap up for play (max tick rate 0) at 2018.02.01-21.12.44
+[2018.02.02-03.12.44:280][814]LogWorld: Bringing up level for play took: 0.011170
+[2018.02.02-03.12.44:292][814]PIE: Play in editor start time for /Game/VehicleAdvBP/Maps/UEDPIE_0_VehicleAdvExampleMap 0.848
+[2018.02.02-03.13.42:189][840]BlueprintLog: New page: Compile HoverComponent
+[2018.02.02-03.13.43:242][871]LogSavePackage: Save=193.04ms
+[2018.02.02-03.13.43:242][871]LogSavePackage: Moving '../../../../../../Users/brixo/OneDrive/Documents/Unreal Projects/EETesting/Saved/HoverComponentE9DC4FCE4130DD3E190ADDBA742CFE43.tmp' to '../../../../../../Users/brixo/OneDrive/Documents/Unreal Projects/EETesting/Content/VehicleAdvBP/Blueprints/HoverComponent.uasset'
+[2018.02.02-03.13.43:256][871]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/brixo/OneDrive/Documents/Unreal Projects/EETesting/Content/VehicleAdvBP/Blueprints/HoverComponent.uasset
+[2018.02.02-03.14.15:303][711]BlueprintLog: New page: Compile ArcadeCar
+[2018.02.02-03.14.16:975][734]LogSavePackage: Save=178.59ms
+[2018.02.02-03.14.16:975][734]LogSavePackage: Moving '../../../../../../Users/brixo/OneDrive/Documents/Unreal Projects/EETesting/Saved/ArcadeCarAD003D554C818FF06DE2399F6841CA43.tmp' to '../../../../../../Users/brixo/OneDrive/Documents/Unreal Projects/EETesting/Content/VehicleAdvBP/Blueprints/ArcadeCar.uasset'
+[2018.02.02-03.14.16:986][734]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/brixo/OneDrive/Documents/Unreal Projects/EETesting/Content/VehicleAdvBP/Blueprints/ArcadeCar.uasset
+[2018.02.02-03.14.17:489][760]LogTemp: Repeating last play command: Selected Viewport
+[2018.02.02-03.14.17:559][760]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.02.02-03.14.17:559][760]PIE: New page: PIE session: VehicleAdvExampleMap (Feb 1, 2018, 3:14:17 PM)
+[2018.02.02-03.14.17:559][760]LogPlayLevel: Creating play world package: /Game/VehicleAdvBP/Maps/UEDPIE_0_VehicleAdvExampleMap
+[2018.02.02-03.14.17:631][760]LogPlayLevel: PIE: StaticDuplicateObject took: (0.071581s)
+[2018.02.02-03.14.17:633][760]LogAIModule: Creating AISystem for world VehicleAdvExampleMap
+[2018.02.02-03.14.17:634][760]LogPlayLevel: PIE: World Init took: (0.002703s)
+[2018.02.02-03.14.17:635][760]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/VehicleAdvBP/Maps/VehicleAdvExampleMap.VehicleAdvExampleMap to /Game/VehicleAdvBP/Maps/UEDPIE_0_VehicleAdvExampleMap.VehicleAdvExampleMap (0.075177s)
+[2018.02.02-03.14.17:711][760]LogInit: XAudio2 using 'Headset Earphone (3- Corsair Gaming H2100 Headset)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2018.02.02-03.14.17:736][760]LogInit: FAudioDevice initialized.
+[2018.02.02-03.14.17:850][760]LogLoad: Game class is 'VehicleAdvGameMode_C'
+[2018.02.02-03.14.17:864][760]LogWorld: Bringing World /Game/VehicleAdvBP/Maps/UEDPIE_0_VehicleAdvExampleMap.VehicleAdvExampleMap up for play (max tick rate 0) at 2018.02.01-21.14.17
+[2018.02.02-03.14.17:866][760]LogWorld: Bringing up level for play took: 0.011497
+[2018.02.02-03.14.17:880][760]PIE: Play in editor start time for /Game/VehicleAdvBP/Maps/UEDPIE_0_VehicleAdvExampleMap 0.436
+[2018.02.02-03.14.27:576][227]BlueprintLog: New page: Compile ArcadeCar
+[2018.02.02-03.14.29:218][249]LogSavePackage: Save=168.66ms
+[2018.02.02-03.14.29:219][249]LogSavePackage: Moving '../../../../../../Users/brixo/OneDrive/Documents/Unreal Projects/EETesting/Saved/ArcadeCarEF11F0FD452B7E87E6A71F9F793A2A1D.tmp' to '../../../../../../Users/brixo/OneDrive/Documents/Unreal Projects/EETesting/Content/VehicleAdvBP/Blueprints/ArcadeCar.uasset'
+[2018.02.02-03.14.29:228][249]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/brixo/OneDrive/Documents/Unreal Projects/EETesting/Content/VehicleAdvBP/Blueprints/ArcadeCar.uasset
+[2018.02.02-03.14.29:917][285]LogTemp: Repeating last play command: Selected Viewport
+[2018.02.02-03.14.29:978][285]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.02.02-03.14.29:978][285]PIE: New page: PIE session: VehicleAdvExampleMap (Feb 1, 2018, 3:14:29 PM)
+[2018.02.02-03.14.29:978][285]LogPlayLevel: Creating play world package: /Game/VehicleAdvBP/Maps/UEDPIE_0_VehicleAdvExampleMap
+[2018.02.02-03.14.30:043][285]LogPlayLevel: PIE: StaticDuplicateObject took: (0.065034s)
+[2018.02.02-03.14.30:047][285]LogAIModule: Creating AISystem for world VehicleAdvExampleMap
+[2018.02.02-03.14.30:048][285]LogPlayLevel: PIE: World Init took: (0.004163s)
+[2018.02.02-03.14.30:049][285]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/VehicleAdvBP/Maps/VehicleAdvExampleMap.VehicleAdvExampleMap to /Game/VehicleAdvBP/Maps/UEDPIE_0_VehicleAdvExampleMap.VehicleAdvExampleMap (0.071327s)
+[2018.02.02-03.14.30:113][285]LogInit: XAudio2 using 'Headset Earphone (3- Corsair Gaming H2100 Headset)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2018.02.02-03.14.30:137][285]LogInit: FAudioDevice initialized.
+[2018.02.02-03.14.30:240][285]LogLoad: Game class is 'VehicleAdvGameMode_C'
+[2018.02.02-03.14.30:255][285]LogWorld: Bringing World /Game/VehicleAdvBP/Maps/UEDPIE_0_VehicleAdvExampleMap.VehicleAdvExampleMap up for play (max tick rate 0) at 2018.02.01-21.14.30
+[2018.02.02-03.14.30:257][285]LogWorld: Bringing up level for play took: 0.012372
+[2018.02.02-03.14.30:267][285]PIE: Play in editor start time for /Game/VehicleAdvBP/Maps/UEDPIE_0_VehicleAdvExampleMap 0.824
+[2018.02.02-03.14.37:846][672]BlueprintLog: New page: Compile ArcadeCar
+[2018.02.02-03.14.39:448][693]LogSavePackage: Save=171.37ms
+[2018.02.02-03.14.39:448][693]LogSavePackage: Moving '../../../../../../Users/brixo/OneDrive/Documents/Unreal Projects/EETesting/Saved/ArcadeCar3A1BD426424591F7E500948B4C4FE3DE.tmp' to '../../../../../../Users/brixo/OneDrive/Documents/Unreal Projects/EETesting/Content/VehicleAdvBP/Blueprints/ArcadeCar.uasset'
+[2018.02.02-03.14.39:458][693]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/brixo/OneDrive/Documents/Unreal Projects/EETesting/Content/VehicleAdvBP/Blueprints/ArcadeCar.uasset
+[2018.02.02-03.14.40:296][740]LogTemp: Repeating last play command: Selected Viewport
+[2018.02.02-03.14.40:359][740]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.02.02-03.14.40:360][740]PIE: New page: PIE session: VehicleAdvExampleMap (Feb 1, 2018, 3:14:40 PM)
+[2018.02.02-03.14.40:360][740]LogPlayLevel: Creating play world package: /Game/VehicleAdvBP/Maps/UEDPIE_0_VehicleAdvExampleMap
+[2018.02.02-03.14.40:433][740]LogPlayLevel: PIE: StaticDuplicateObject took: (0.073040s)
+[2018.02.02-03.14.40:435][740]LogAIModule: Creating AISystem for world VehicleAdvExampleMap
+[2018.02.02-03.14.40:436][740]LogPlayLevel: PIE: World Init took: (0.002538s)
+[2018.02.02-03.14.40:436][740]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/VehicleAdvBP/Maps/VehicleAdvExampleMap.VehicleAdvExampleMap to /Game/VehicleAdvBP/Maps/UEDPIE_0_VehicleAdvExampleMap.VehicleAdvExampleMap (0.076481s)
+[2018.02.02-03.14.40:514][740]LogInit: XAudio2 using 'Headset Earphone (3- Corsair Gaming H2100 Headset)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2018.02.02-03.14.40:534][740]LogInit: FAudioDevice initialized.
+[2018.02.02-03.14.40:633][740]LogLoad: Game class is 'VehicleAdvGameMode_C'
+[2018.02.02-03.14.40:649][740]LogWorld: Bringing World /Game/VehicleAdvBP/Maps/UEDPIE_0_VehicleAdvExampleMap.VehicleAdvExampleMap up for play (max tick rate 0) at 2018.02.01-21.14.40
+[2018.02.02-03.14.40:650][740]LogWorld: Bringing up level for play took: 0.011433
+[2018.02.02-03.14.40:661][740]PIE: Play in editor start time for /Game/VehicleAdvBP/Maps/UEDPIE_0_VehicleAdvExampleMap 1.217
+[2018.02.02-03.15.19:786][532]BlueprintLog: New page: Compile ArcadeCar
+[2018.02.02-03.15.21:481][557]LogSavePackage: Save=192.89ms
+[2018.02.02-03.15.21:481][557]LogSavePackage: Moving '../../../../../../Users/brixo/OneDrive/Documents/Unreal Projects/EETesting/Saved/ArcadeCar254E0BCE49443D3CA202B7B88FBB701A.tmp' to '../../../../../../Users/brixo/OneDrive/Documents/Unreal Projects/EETesting/Content/VehicleAdvBP/Blueprints/ArcadeCar.uasset'
+[2018.02.02-03.15.21:493][557]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/brixo/OneDrive/Documents/Unreal Projects/EETesting/Content/VehicleAdvBP/Blueprints/ArcadeCar.uasset
+[2018.02.02-03.15.25:096][767]LogTemp: Repeating last play command: Selected Viewport
+[2018.02.02-03.15.25:160][767]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.02.02-03.15.25:161][767]PIE: New page: PIE session: VehicleAdvExampleMap (Feb 1, 2018, 3:15:25 PM)
+[2018.02.02-03.15.25:161][767]LogPlayLevel: Creating play world package: /Game/VehicleAdvBP/Maps/UEDPIE_0_VehicleAdvExampleMap
+[2018.02.02-03.15.25:229][767]LogPlayLevel: PIE: StaticDuplicateObject took: (0.068175s)
+[2018.02.02-03.15.25:231][767]LogAIModule: Creating AISystem for world VehicleAdvExampleMap
+[2018.02.02-03.15.25:232][767]LogPlayLevel: PIE: World Init took: (0.002284s)
+[2018.02.02-03.15.25:233][767]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/VehicleAdvBP/Maps/VehicleAdvExampleMap.VehicleAdvExampleMap to /Game/VehicleAdvBP/Maps/UEDPIE_0_VehicleAdvExampleMap.VehicleAdvExampleMap (0.071599s)
+[2018.02.02-03.15.25:299][767]LogInit: XAudio2 using 'Headset Earphone (3- Corsair Gaming H2100 Headset)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2018.02.02-03.15.25:321][767]LogInit: FAudioDevice initialized.
+[2018.02.02-03.15.25:426][767]LogLoad: Game class is 'VehicleAdvGameMode_C'
+[2018.02.02-03.15.25:442][767]LogWorld: Bringing World /Game/VehicleAdvBP/Maps/UEDPIE_0_VehicleAdvExampleMap.VehicleAdvExampleMap up for play (max tick rate 0) at 2018.02.01-21.15.25
+[2018.02.02-03.15.25:444][767]LogWorld: Bringing up level for play took: 0.012129
+[2018.02.02-03.15.25:452][767]PIE: Play in editor start time for /Game/VehicleAdvBP/Maps/UEDPIE_0_VehicleAdvExampleMap 0.008
+[2018.02.02-03.16.13:778][329]LogSavePackage: Save=734.21ms
+[2018.02.02-03.16.13:778][329]LogSavePackage: Moving '../../../../../../Users/brixo/OneDrive/Documents/Unreal Projects/EETesting/Saved/VehicleAdvExampleMap_Auto2024AA69541196ACE8A33289A079502CC.tmp' to '../../../../../../Users/brixo/OneDrive/Documents/Unreal Projects/EETesting/Saved/Autosaves/Game/VehicleAdvBP/Maps/VehicleAdvExampleMap_Auto2.umap'
+[2018.02.02-03.16.13:785][329]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/brixo/OneDrive/Documents/Unreal Projects/EETesting/Saved/Autosaves/Game/VehicleAdvBP/Maps/VehicleAdvExampleMap_Auto2.umap
+[2018.02.02-03.16.13:811][329]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/VehicleAdvBP/Maps/VehicleAdvExampleMap' took 0.903
+[2018.02.02-03.16.13:811][329]LogFileHelpers: Editor autosave (incl. sublevels) for all levels took 0.903
+[2018.02.02-03.17.44:741][822]BlueprintLog: New page: Compile ArcadeCar
+[2018.02.02-03.17.46:381][836]LogSavePackage: Save=177.23ms
+[2018.02.02-03.17.46:382][836]LogSavePackage: Moving '../../../../../../Users/brixo/OneDrive/Documents/Unreal Projects/EETesting/Saved/ArcadeCarA42261C44E1742305A81E08F848D80D8.tmp' to '../../../../../../Users/brixo/OneDrive/Documents/Unreal Projects/EETesting/Content/VehicleAdvBP/Blueprints/ArcadeCar.uasset'
+[2018.02.02-03.17.46:392][836]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/brixo/OneDrive/Documents/Unreal Projects/EETesting/Content/VehicleAdvBP/Blueprints/ArcadeCar.uasset
+[2018.02.02-03.18.01:614][633]BlueprintLog: New page: Compile HoverComponent
+[2018.02.02-03.18.02:698][665]LogSavePackage: Save=186.53ms
+[2018.02.02-03.18.02:698][665]LogSavePackage: Moving '../../../../../../Users/brixo/OneDrive/Documents/Unreal Projects/EETesting/Saved/HoverComponentDB12549D4263793A43DE2CB802462746.tmp' to '../../../../../../Users/brixo/OneDrive/Documents/Unreal Projects/EETesting/Content/VehicleAdvBP/Blueprints/HoverComponent.uasset'
+[2018.02.02-03.18.02:711][665]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/brixo/OneDrive/Documents/Unreal Projects/EETesting/Content/VehicleAdvBP/Blueprints/HoverComponent.uasset
+[2018.02.02-03.18.03:300][692]LogTemp: Repeating last play command: Selected Viewport
+[2018.02.02-03.18.03:363][692]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.02.02-03.18.03:363][692]PIE: New page: PIE session: VehicleAdvExampleMap (Feb 1, 2018, 3:18:03 PM)
+[2018.02.02-03.18.03:364][692]LogPlayLevel: Creating play world package: /Game/VehicleAdvBP/Maps/UEDPIE_0_VehicleAdvExampleMap
+[2018.02.02-03.18.03:428][692]LogPlayLevel: PIE: StaticDuplicateObject took: (0.063846s)
+[2018.02.02-03.18.03:430][692]LogAIModule: Creating AISystem for world VehicleAdvExampleMap
+[2018.02.02-03.18.03:431][692]LogPlayLevel: PIE: World Init took: (0.002985s)
+[2018.02.02-03.18.03:432][692]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/VehicleAdvBP/Maps/VehicleAdvExampleMap.VehicleAdvExampleMap to /Game/VehicleAdvBP/Maps/UEDPIE_0_VehicleAdvExampleMap.VehicleAdvExampleMap (0.067702s)
+[2018.02.02-03.18.03:495][692]LogInit: XAudio2 using 'Headset Earphone (3- Corsair Gaming H2100 Headset)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2018.02.02-03.18.03:517][692]LogInit: FAudioDevice initialized.
+[2018.02.02-03.18.03:625][692]LogLoad: Game class is 'VehicleAdvGameMode_C'
+[2018.02.02-03.18.03:638][692]LogWorld: Bringing World /Game/VehicleAdvBP/Maps/UEDPIE_0_VehicleAdvExampleMap.VehicleAdvExampleMap up for play (max tick rate 0) at 2018.02.01-21.18.03
+[2018.02.02-03.18.03:639][692]LogWorld: Bringing up level for play took: 0.010159
+[2018.02.02-03.18.03:653][692]PIE: Play in editor start time for /Game/VehicleAdvBP/Maps/UEDPIE_0_VehicleAdvExampleMap 0.209
+[2018.02.02-03.18.11:768][ 74]BlueprintLog: New page: Compile HoverComponent
+[2018.02.02-03.18.12:871][106]LogSavePackage: Save=196.68ms
+[2018.02.02-03.18.12:871][106]LogSavePackage: Moving '../../../../../../Users/brixo/OneDrive/Documents/Unreal Projects/EETesting/Saved/HoverComponentD1471DEE45270D01B6D59D98E7329E3F.tmp' to '../../../../../../Users/brixo/OneDrive/Documents/Unreal Projects/EETesting/Content/VehicleAdvBP/Blueprints/HoverComponent.uasset'
+[2018.02.02-03.18.12:884][106]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/brixo/OneDrive/Documents/Unreal Projects/EETesting/Content/VehicleAdvBP/Blueprints/HoverComponent.uasset
+[2018.02.02-03.18.13:944][157]LogTemp: Repeating last play command: Selected Viewport
+[2018.02.02-03.18.13:994][157]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.02.02-03.18.13:994][157]PIE: New page: PIE session: VehicleAdvExampleMap (Feb 1, 2018, 3:18:13 PM)
+[2018.02.02-03.18.13:994][157]LogPlayLevel: Creating play world package: /Game/VehicleAdvBP/Maps/UEDPIE_0_VehicleAdvExampleMap
+[2018.02.02-03.18.14:063][157]LogPlayLevel: PIE: StaticDuplicateObject took: (0.068832s)
+[2018.02.02-03.18.14:065][157]LogAIModule: Creating AISystem for world VehicleAdvExampleMap
+[2018.02.02-03.18.14:065][157]LogPlayLevel: PIE: World Init took: (0.002250s)
+[2018.02.02-03.18.14:066][157]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/VehicleAdvBP/Maps/VehicleAdvExampleMap.VehicleAdvExampleMap to /Game/VehicleAdvBP/Maps/UEDPIE_0_VehicleAdvExampleMap.VehicleAdvExampleMap (0.072253s)
+[2018.02.02-03.18.14:145][157]LogInit: XAudio2 using 'Headset Earphone (3- Corsair Gaming H2100 Headset)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2018.02.02-03.18.14:175][157]LogInit: FAudioDevice initialized.
+[2018.02.02-03.18.14:285][157]LogLoad: Game class is 'VehicleAdvGameMode_C'
+[2018.02.02-03.18.14:303][157]LogWorld: Bringing World /Game/VehicleAdvBP/Maps/UEDPIE_0_VehicleAdvExampleMap.VehicleAdvExampleMap up for play (max tick rate 0) at 2018.02.01-21.18.14
+[2018.02.02-03.18.14:304][157]LogWorld: Bringing up level for play took: 0.013346
+[2018.02.02-03.18.14:317][157]PIE: Play in editor start time for /Game/VehicleAdvBP/Maps/UEDPIE_0_VehicleAdvExampleMap 0.873
+[2018.02.02-03.19.07:908][762]BlueprintLog: New page: Compile HoverComponent
+[2018.02.02-03.19.08:946][790]LogSavePackage: Save=189.23ms
+[2018.02.02-03.19.08:947][790]LogSavePackage: Moving '../../../../../../Users/brixo/OneDrive/Documents/Unreal Projects/EETesting/Saved/HoverComponent7F3B190D446EF0BE5973C2B126EB2BCD.tmp' to '../../../../../../Users/brixo/OneDrive/Documents/Unreal Projects/EETesting/Content/VehicleAdvBP/Blueprints/HoverComponent.uasset'
+[2018.02.02-03.19.08:957][790]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/brixo/OneDrive/Documents/Unreal Projects/EETesting/Content/VehicleAdvBP/Blueprints/HoverComponent.uasset
+[2018.02.02-03.19.22:026][459]BlueprintLog: New page: Compile ArcadeCar
+[2018.02.02-03.19.23:832][485]LogSavePackage: Save=192.30ms
+[2018.02.02-03.19.23:833][485]LogSavePackage: Moving '../../../../../../Users/brixo/OneDrive/Documents/Unreal Projects/EETesting/Saved/ArcadeCar1F3ECEC5467B4B85748460AA097CEE01.tmp' to '../../../../../../Users/brixo/OneDrive/Documents/Unreal Projects/EETesting/Content/VehicleAdvBP/Blueprints/ArcadeCar.uasset'
+[2018.02.02-03.19.23:844][485]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/brixo/OneDrive/Documents/Unreal Projects/EETesting/Content/VehicleAdvBP/Blueprints/ArcadeCar.uasset
+[2018.02.02-03.19.26:548][634]LogTemp: Repeating last play command: Selected Viewport
+[2018.02.02-03.19.26:628][634]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.02.02-03.19.26:628][634]PIE: New page: PIE session: VehicleAdvExampleMap (Feb 1, 2018, 3:19:26 PM)
+[2018.02.02-03.19.26:628][634]LogPlayLevel: Creating play world package: /Game/VehicleAdvBP/Maps/UEDPIE_0_VehicleAdvExampleMap
+[2018.02.02-03.19.26:694][634]LogPlayLevel: PIE: StaticDuplicateObject took: (0.065928s)
+[2018.02.02-03.19.26:696][634]LogAIModule: Creating AISystem for world VehicleAdvExampleMap
+[2018.02.02-03.19.26:697][634]LogPlayLevel: PIE: World Init took: (0.002290s)
+[2018.02.02-03.19.26:697][634]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/VehicleAdvBP/Maps/VehicleAdvExampleMap.VehicleAdvExampleMap to /Game/VehicleAdvBP/Maps/UEDPIE_0_VehicleAdvExampleMap.VehicleAdvExampleMap (0.069041s)
+[2018.02.02-03.19.26:775][634]LogInit: XAudio2 using 'Headset Earphone (3- Corsair Gaming H2100 Headset)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2018.02.02-03.19.26:797][634]LogInit: FAudioDevice initialized.
+[2018.02.02-03.19.26:895][634]LogLoad: Game class is 'VehicleAdvGameMode_C'
+[2018.02.02-03.19.26:912][634]LogWorld: Bringing World /Game/VehicleAdvBP/Maps/UEDPIE_0_VehicleAdvExampleMap.VehicleAdvExampleMap up for play (max tick rate 0) at 2018.02.01-21.19.26
+[2018.02.02-03.19.26:913][634]LogWorld: Bringing up level for play took: 0.012179
+[2018.02.02-03.19.26:925][634]PIE: Play in editor start time for /Game/VehicleAdvBP/Maps/UEDPIE_0_VehicleAdvExampleMap -0.519
+[2018.02.02-03.20.12:119][745]BlueprintLog: New page: Compile HoverComponent
+[2018.02.02-03.20.13:089][769]LogSavePackage: Save=190.39ms
+[2018.02.02-03.20.13:089][769]LogSavePackage: Moving '../../../../../../Users/brixo/OneDrive/Documents/Unreal Projects/EETesting/Saved/HoverComponent2148E38E46E1D3A71AB03D9A03B955F2.tmp' to '../../../../../../Users/brixo/OneDrive/Documents/Unreal Projects/EETesting/Content/VehicleAdvBP/Blueprints/HoverComponent.uasset'
+[2018.02.02-03.20.13:099][769]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/brixo/OneDrive/Documents/Unreal Projects/EETesting/Content/VehicleAdvBP/Blueprints/HoverComponent.uasset
+[2018.02.02-03.20.14:109][815]LogTemp: Repeating last play command: Selected Viewport
+[2018.02.02-03.20.14:163][815]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.02.02-03.20.14:164][815]PIE: New page: PIE session: VehicleAdvExampleMap (Feb 1, 2018, 3:20:14 PM)
+[2018.02.02-03.20.14:164][815]LogPlayLevel: Creating play world package: /Game/VehicleAdvBP/Maps/UEDPIE_0_VehicleAdvExampleMap
+[2018.02.02-03.20.14:236][815]LogPlayLevel: PIE: StaticDuplicateObject took: (0.071285s)
+[2018.02.02-03.20.14:238][815]LogAIModule: Creating AISystem for world VehicleAdvExampleMap
+[2018.02.02-03.20.14:238][815]LogPlayLevel: PIE: World Init took: (0.002264s)
+[2018.02.02-03.20.14:239][815]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/VehicleAdvBP/Maps/VehicleAdvExampleMap.VehicleAdvExampleMap to /Game/VehicleAdvBP/Maps/UEDPIE_0_VehicleAdvExampleMap.VehicleAdvExampleMap (0.074351s)
+[2018.02.02-03.20.14:311][815]LogInit: XAudio2 using 'Headset Earphone (3- Corsair Gaming H2100 Headset)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2018.02.02-03.20.14:333][815]LogInit: FAudioDevice initialized.
+[2018.02.02-03.20.14:447][815]LogLoad: Game class is 'VehicleAdvGameMode_C'
+[2018.02.02-03.20.14:463][815]LogWorld: Bringing World /Game/VehicleAdvBP/Maps/UEDPIE_0_VehicleAdvExampleMap.VehicleAdvExampleMap up for play (max tick rate 0) at 2018.02.01-21.20.14
+[2018.02.02-03.20.14:465][815]LogWorld: Bringing up level for play took: 0.011989
+[2018.02.02-03.20.14:482][815]PIE: Play in editor start time for /Game/VehicleAdvBP/Maps/UEDPIE_0_VehicleAdvExampleMap 1.038
+[2018.02.02-03.25.35:734][600]BlueprintLog: New page: Compile HoverComponent
+[2018.02.02-03.25.36:796][622]LogSavePackage: Save=205.78ms
+[2018.02.02-03.25.36:796][622]LogSavePackage: Moving '../../../../../../Users/brixo/OneDrive/Documents/Unreal Projects/EETesting/Saved/HoverComponent6A11535A4AB96BCBB06E7394A9907C7C.tmp' to '../../../../../../Users/brixo/OneDrive/Documents/Unreal Projects/EETesting/Content/VehicleAdvBP/Blueprints/HoverComponent.uasset'
+[2018.02.02-03.25.36:808][622]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/brixo/OneDrive/Documents/Unreal Projects/EETesting/Content/VehicleAdvBP/Blueprints/HoverComponent.uasset
+[2018.02.02-03.25.37:296][640]LogTemp: Repeating last play command: Selected Viewport
+[2018.02.02-03.25.37:346][640]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.02.02-03.25.37:347][640]PIE: New page: PIE session: VehicleAdvExampleMap (Feb 1, 2018, 3:25:37 PM)
+[2018.02.02-03.25.37:347][640]LogPlayLevel: Creating play world package: /Game/VehicleAdvBP/Maps/UEDPIE_0_VehicleAdvExampleMap
+[2018.02.02-03.25.37:409][640]LogPlayLevel: PIE: StaticDuplicateObject took: (0.061627s)
+[2018.02.02-03.25.37:411][640]LogAIModule: Creating AISystem for world VehicleAdvExampleMap
+[2018.02.02-03.25.37:411][640]LogPlayLevel: PIE: World Init took: (0.002374s)
+[2018.02.02-03.25.37:412][640]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/VehicleAdvBP/Maps/VehicleAdvExampleMap.VehicleAdvExampleMap to /Game/VehicleAdvBP/Maps/UEDPIE_0_VehicleAdvExampleMap.VehicleAdvExampleMap (0.064967s)
+[2018.02.02-03.25.37:477][640]LogInit: XAudio2 using 'Headset Earphone (3- Corsair Gaming H2100 Headset)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2018.02.02-03.25.37:499][640]LogInit: FAudioDevice initialized.
+[2018.02.02-03.25.37:617][640]LogLoad: Game class is 'VehicleAdvGameMode_C'
+[2018.02.02-03.25.37:633][640]LogWorld: Bringing World /Game/VehicleAdvBP/Maps/UEDPIE_0_VehicleAdvExampleMap.VehicleAdvExampleMap up for play (max tick rate 0) at 2018.02.01-21.25.37
+[2018.02.02-03.25.37:635][640]LogWorld: Bringing up level for play took: 0.011046
+[2018.02.02-03.25.37:654][640]PIE: Play in editor start time for /Game/VehicleAdvBP/Maps/UEDPIE_0_VehicleAdvExampleMap 0.21
+[2018.02.02-03.27.52:928][486]BlueprintLog: New page: Compile HoverComponent
+[2018.02.02-03.27.53:807][506]LogSavePackage: Save=135.16ms
+[2018.02.02-03.27.53:807][506]LogSavePackage: Moving '../../../../../../Users/brixo/OneDrive/Documents/Unreal Projects/EETesting/Saved/HoverComponent9867B8DD49F78AEB895017AE0C1BFF2F.tmp' to '../../../../../../Users/brixo/OneDrive/Documents/Unreal Projects/EETesting/Content/VehicleAdvBP/Blueprints/HoverComponent.uasset'
+[2018.02.02-03.27.53:823][506]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/brixo/OneDrive/Documents/Unreal Projects/EETesting/Content/VehicleAdvBP/Blueprints/HoverComponent.uasset
+[2018.02.02-03.28.18:527][745]LogSavePackage: Save=651.53ms
+[2018.02.02-03.28.18:528][745]LogSavePackage: Moving '../../../../../../Users/brixo/OneDrive/Documents/Unreal Projects/EETesting/Saved/VehicleAdvExampleMap_Auto3BF8E6695479C6E4A86A14FB8C1C3AB99.tmp' to '../../../../../../Users/brixo/OneDrive/Documents/Unreal Projects/EETesting/Saved/Autosaves/Game/VehicleAdvBP/Maps/VehicleAdvExampleMap_Auto3.umap'
+[2018.02.02-03.28.18:581][745]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/brixo/OneDrive/Documents/Unreal Projects/EETesting/Saved/Autosaves/Game/VehicleAdvBP/Maps/VehicleAdvExampleMap_Auto3.umap
+[2018.02.02-03.28.18:602][745]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/VehicleAdvBP/Maps/VehicleAdvExampleMap' took 0.846
+[2018.02.02-03.28.18:602][745]LogFileHelpers: Editor autosave (incl. sublevels) for all levels took 0.846
+[2018.02.02-03.30.32:452][928]LogBlueprint: Warning: [HoverComponent] 'Body' variable not found. Base class was probably changed. /Game/VehicleAdvBP/Blueprints/HoverComponent.HoverComponent
+[2018.02.02-03.30.32:452][928]LogBlueprint: Warning: [HoverComponent] 'Body' variable not found. Base class was probably changed. /Game/VehicleAdvBP/Blueprints/HoverComponent.HoverComponent
+[2018.02.02-03.31.13:069][688]BlueprintLog: New page: Compile HoverComponent
+[2018.02.02-03.31.13:158][688]LogBlueprint: Warning: [Compiler HoverComponent] Could not find a variable named "Body" in 'HoverComponent_C'.
+Make sure 'HoverComponent_C' has been compiled for  Get Body
+[2018.02.02-03.31.13:161][688]LogBlueprint: Error: [Compiler HoverComponent] The property associated with  Body  could not be found
+[2018.02.02-03.31.13:272][688]LogBlueprint: Warning: [Compiler HoverComponent] [2952.11] Compile of HoverComponent failed. 1 Fatal Issue(s) 1 Warning(s) [in 202 ms] (/Game/VehicleAdvBP/Blueprints/HoverComponent.HoverComponent)
+[2018.02.02-03.31.22:709][162]BlueprintLog: New page: Compile HoverComponent
+[2018.02.02-03.31.23:792][190]LogSavePackage: Save=159.43ms
+[2018.02.02-03.31.23:796][190]LogSavePackage: Moving '../../../../../../Users/brixo/OneDrive/Documents/Unreal Projects/EETesting/Saved/HoverComponent5ECDF6DA414D324DE04469A430B24E9D.tmp' to '../../../../../../Users/brixo/OneDrive/Documents/Unreal Projects/EETesting/Content/VehicleAdvBP/Blueprints/HoverComponent.uasset'
+[2018.02.02-03.31.23:810][190]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/brixo/OneDrive/Documents/Unreal Projects/EETesting/Content/VehicleAdvBP/Blueprints/HoverComponent.uasset
+[2018.02.02-03.31.24:892][241]LogTemp: Repeating last play command: Selected Viewport
+[2018.02.02-03.31.24:943][241]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.02.02-03.31.24:944][241]PIE: New page: PIE session: VehicleAdvExampleMap (Feb 1, 2018, 3:31:24 PM)
+[2018.02.02-03.31.24:944][241]LogPlayLevel: Creating play world package: /Game/VehicleAdvBP/Maps/UEDPIE_0_VehicleAdvExampleMap
+[2018.02.02-03.31.25:017][241]LogPlayLevel: PIE: StaticDuplicateObject took: (0.073264s)
+[2018.02.02-03.31.25:019][241]LogAIModule: Creating AISystem for world VehicleAdvExampleMap
+[2018.02.02-03.31.25:020][241]LogPlayLevel: PIE: World Init took: (0.002509s)
+[2018.02.02-03.31.25:020][241]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/VehicleAdvBP/Maps/VehicleAdvExampleMap.VehicleAdvExampleMap to /Game/VehicleAdvBP/Maps/UEDPIE_0_VehicleAdvExampleMap.VehicleAdvExampleMap (0.076736s)
+[2018.02.02-03.31.25:099][241]LogInit: XAudio2 using 'Headset Earphone (3- Corsair Gaming H2100 Headset)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2018.02.02-03.31.25:121][241]LogInit: FAudioDevice initialized.
+[2018.02.02-03.31.25:238][241]LogLoad: Game class is 'VehicleAdvGameMode_C'
+[2018.02.02-03.31.25:253][241]LogWorld: Bringing World /Game/VehicleAdvBP/Maps/UEDPIE_0_VehicleAdvExampleMap.VehicleAdvExampleMap up for play (max tick rate 0) at 2018.02.01-21.31.25
+[2018.02.02-03.31.25:254][241]LogWorld: Bringing up level for play took: 0.010631
+[2018.02.02-03.31.25:273][241]PIE: Play in editor start time for /Game/VehicleAdvBP/Maps/UEDPIE_0_VehicleAdvExampleMap -0.171
+[2018.02.02-03.32.55:009][232]BlueprintLog: New page: Compile HoverComponent
+[2018.02.02-03.32.56:012][256]LogSavePackage: Save=151.99ms
+[2018.02.02-03.32.56:012][256]LogSavePackage: Moving '../../../../../../Users/brixo/OneDrive/Documents/Unreal Projects/EETesting/Saved/HoverComponentB5E7AEA746A790E9E75475863B1FE3E5.tmp' to '../../../../../../Users/brixo/OneDrive/Documents/Unreal Projects/EETesting/Content/VehicleAdvBP/Blueprints/HoverComponent.uasset'
+[2018.02.02-03.32.56:023][256]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/brixo/OneDrive/Documents/Unreal Projects/EETesting/Content/VehicleAdvBP/Blueprints/HoverComponent.uasset
+[2018.02.02-03.32.59:951][420]BlueprintLog: New page: Compile HoverComponent
+[2018.02.02-03.33.00:848][435]LogSavePackage: Save=154.34ms
+[2018.02.02-03.33.00:848][435]LogSavePackage: Moving '../../../../../../Users/brixo/OneDrive/Documents/Unreal Projects/EETesting/Saved/HoverComponent4A248C68403EF3F95930F0AA0AB65A7C.tmp' to '../../../../../../Users/brixo/OneDrive/Documents/Unreal Projects/EETesting/Content/VehicleAdvBP/Blueprints/HoverComponent.uasset'
+[2018.02.02-03.33.00:858][435]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/brixo/OneDrive/Documents/Unreal Projects/EETesting/Content/VehicleAdvBP/Blueprints/HoverComponent.uasset
+[2018.02.02-03.33.18:743][146]BlueprintLog: New page: Compile HoverComponent
+[2018.02.02-03.33.19:924][175]LogSavePackage: Save=163.12ms
+[2018.02.02-03.33.19:924][175]LogSavePackage: Moving '../../../../../../Users/brixo/OneDrive/Documents/Unreal Projects/EETesting/Saved/HoverComponent981709F0468717F585ED5F862795FFB6.tmp' to '../../../../../../Users/brixo/OneDrive/Documents/Unreal Projects/EETesting/Content/VehicleAdvBP/Blueprints/HoverComponent.uasset'
+[2018.02.02-03.33.19:937][175]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/brixo/OneDrive/Documents/Unreal Projects/EETesting/Content/VehicleAdvBP/Blueprints/HoverComponent.uasset
+[2018.02.02-03.33.20:542][196]LogTemp: Repeating last play command: Selected Viewport
+[2018.02.02-03.33.20:622][196]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.02.02-03.33.20:623][196]PIE: New page: PIE session: VehicleAdvExampleMap (Feb 1, 2018, 3:33:20 PM)
+[2018.02.02-03.33.20:623][196]LogPlayLevel: Creating play world package: /Game/VehicleAdvBP/Maps/UEDPIE_0_VehicleAdvExampleMap
+[2018.02.02-03.33.20:721][196]LogPlayLevel: PIE: StaticDuplicateObject took: (0.097783s)
+[2018.02.02-03.33.20:723][196]LogAIModule: Creating AISystem for world VehicleAdvExampleMap
+[2018.02.02-03.33.20:723][196]LogPlayLevel: PIE: World Init took: (0.002440s)
+[2018.02.02-03.33.20:724][196]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/VehicleAdvBP/Maps/VehicleAdvExampleMap.VehicleAdvExampleMap to /Game/VehicleAdvBP/Maps/UEDPIE_0_VehicleAdvExampleMap.VehicleAdvExampleMap (0.101040s)
+[2018.02.02-03.33.20:802][196]LogInit: XAudio2 using 'Headset Earphone (3- Corsair Gaming H2100 Headset)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2018.02.02-03.33.20:825][196]LogInit: FAudioDevice initialized.
+[2018.02.02-03.33.20:952][196]LogLoad: Game class is 'VehicleAdvGameMode_C'
+[2018.02.02-03.33.20:969][196]LogWorld: Bringing World /Game/VehicleAdvBP/Maps/UEDPIE_0_VehicleAdvExampleMap.VehicleAdvExampleMap up for play (max tick rate 0) at 2018.02.01-21.33.20
+[2018.02.02-03.33.20:970][196]LogWorld: Bringing up level for play took: 0.010793
+[2018.02.02-03.33.20:984][196]PIE: Play in editor start time for /Game/VehicleAdvBP/Maps/UEDPIE_0_VehicleAdvExampleMap -0.46
+[2018.02.02-03.35.05:589][765]LogTemp: Repeating last play command: Selected Viewport
+[2018.02.02-03.35.05:665][765]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.02.02-03.35.05:665][765]PIE: New page: PIE session: VehicleAdvExampleMap (Feb 1, 2018, 3:35:05 PM)
+[2018.02.02-03.35.05:665][765]LogPlayLevel: Creating play world package: /Game/VehicleAdvBP/Maps/UEDPIE_0_VehicleAdvExampleMap
+[2018.02.02-03.35.05:737][765]LogPlayLevel: PIE: StaticDuplicateObject took: (0.071194s)
+[2018.02.02-03.35.05:739][765]LogAIModule: Creating AISystem for world VehicleAdvExampleMap
+[2018.02.02-03.35.05:740][765]LogPlayLevel: PIE: World Init took: (0.002511s)
+[2018.02.02-03.35.05:740][765]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/VehicleAdvBP/Maps/VehicleAdvExampleMap.VehicleAdvExampleMap to /Game/VehicleAdvBP/Maps/UEDPIE_0_VehicleAdvExampleMap.VehicleAdvExampleMap (0.074595s)
+[2018.02.02-03.35.05:811][765]LogInit: XAudio2 using 'Headset Earphone (3- Corsair Gaming H2100 Headset)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2018.02.02-03.35.05:835][765]LogInit: FAudioDevice initialized.
+[2018.02.02-03.35.05:958][765]LogLoad: Game class is 'VehicleAdvGameMode_C'
+[2018.02.02-03.35.05:979][765]LogWorld: Bringing World /Game/VehicleAdvBP/Maps/UEDPIE_0_VehicleAdvExampleMap.VehicleAdvExampleMap up for play (max tick rate 0) at 2018.02.01-21.35.05
+[2018.02.02-03.35.05:982][765]LogWorld: Bringing up level for play took: 0.015048
+[2018.02.02-03.35.06:000][765]PIE: Play in editor start time for /Game/VehicleAdvBP/Maps/UEDPIE_0_VehicleAdvExampleMap 0.556
+[2018.02.02-03.35.49:924][340]BlueprintLog: New page: Compile ArcadeCar
+[2018.02.02-03.35.51:181][340]LogSavePackage: Save=170.79ms
+[2018.02.02-03.35.51:181][340]LogSavePackage: Moving '../../../../../../Users/brixo/OneDrive/Documents/Unreal Projects/EETesting/Saved/ArcadeCar5F2912724E2B84C399627684049CC660.tmp' to '../../../../../../Users/brixo/OneDrive/Documents/Unreal Projects/EETesting/Content/VehicleAdvBP/Blueprints/ArcadeCar.uasset'
+[2018.02.02-03.35.51:192][340]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/brixo/OneDrive/Documents/Unreal Projects/EETesting/Content/VehicleAdvBP/Blueprints/ArcadeCar.uasset
+[2018.02.02-03.35.52:149][377]LogSavePackage: Save=153.95ms
+[2018.02.02-03.35.52:149][377]LogSavePackage: Moving '../../../../../../Users/brixo/OneDrive/Documents/Unreal Projects/EETesting/Saved/ArcadeCar028D33064EF3AD750FC30B88E4908BBD.tmp' to '../../../../../../Users/brixo/OneDrive/Documents/Unreal Projects/EETesting/Content/VehicleAdvBP/Blueprints/ArcadeCar.uasset'
+[2018.02.02-03.35.52:156][377]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/brixo/OneDrive/Documents/Unreal Projects/EETesting/Content/VehicleAdvBP/Blueprints/ArcadeCar.uasset
+[2018.02.02-03.35.54:003][469]LogTemp: Repeating last play command: Selected Viewport
+[2018.02.02-03.35.54:076][469]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.02.02-03.35.54:077][469]PIE: New page: PIE session: VehicleAdvExampleMap (Feb 1, 2018, 3:35:54 PM)
+[2018.02.02-03.35.54:077][469]LogPlayLevel: Creating play world package: /Game/VehicleAdvBP/Maps/UEDPIE_0_VehicleAdvExampleMap
+[2018.02.02-03.35.54:144][469]LogPlayLevel: PIE: StaticDuplicateObject took: (0.067227s)
+[2018.02.02-03.35.54:146][469]LogAIModule: Creating AISystem for world VehicleAdvExampleMap
+[2018.02.02-03.35.54:147][469]LogPlayLevel: PIE: World Init took: (0.002569s)
+[2018.02.02-03.35.54:148][469]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/VehicleAdvBP/Maps/VehicleAdvExampleMap.VehicleAdvExampleMap to /Game/VehicleAdvBP/Maps/UEDPIE_0_VehicleAdvExampleMap.VehicleAdvExampleMap (0.070787s)
+[2018.02.02-03.35.54:224][469]LogInit: XAudio2 using 'Headset Earphone (3- Corsair Gaming H2100 Headset)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2018.02.02-03.35.54:249][469]LogInit: FAudioDevice initialized.
+[2018.02.02-03.35.54:361][469]LogLoad: Game class is 'VehicleAdvGameMode_C'
+[2018.02.02-03.35.54:378][469]LogWorld: Bringing World /Game/VehicleAdvBP/Maps/UEDPIE_0_VehicleAdvExampleMap.VehicleAdvExampleMap up for play (max tick rate 0) at 2018.02.01-21.35.54
+[2018.02.02-03.35.54:380][469]LogWorld: Bringing up level for play took: 0.013250
+[2018.02.02-03.35.54:391][469]PIE: Play in editor start time for /Game/VehicleAdvBP/Maps/UEDPIE_0_VehicleAdvExampleMap 0.947
+[2018.02.02-03.37.10:581][679]BlueprintLog: New page: Compile ArcadeCar
+[2018.02.02-03.37.12:321][691]LogSavePackage: Save=174.99ms
+[2018.02.02-03.37.12:321][691]LogSavePackage: Moving '../../../../../../Users/brixo/OneDrive/Documents/Unreal Projects/EETesting/Saved/ArcadeCar14542E9F449B1DFC3DB108B16B96A252.tmp' to '../../../../../../Users/brixo/OneDrive/Documents/Unreal Projects/EETesting/Content/VehicleAdvBP/Blueprints/ArcadeCar.uasset'
+[2018.02.02-03.37.12:333][691]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/brixo/OneDrive/Documents/Unreal Projects/EETesting/Content/VehicleAdvBP/Blueprints/ArcadeCar.uasset
+[2018.02.02-03.37.12:939][713]LogTemp: Repeating last play command: Selected Viewport
+[2018.02.02-03.37.13:006][713]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.02.02-03.37.13:007][713]PIE: New page: PIE session: VehicleAdvExampleMap (Feb 1, 2018, 3:37:13 PM)
+[2018.02.02-03.37.13:007][713]LogPlayLevel: Creating play world package: /Game/VehicleAdvBP/Maps/UEDPIE_0_VehicleAdvExampleMap
+[2018.02.02-03.37.13:071][713]LogPlayLevel: PIE: StaticDuplicateObject took: (0.064572s)
+[2018.02.02-03.37.13:073][713]LogAIModule: Creating AISystem for world VehicleAdvExampleMap
+[2018.02.02-03.37.13:073][713]LogPlayLevel: PIE: World Init took: (0.001943s)
+[2018.02.02-03.37.13:074][713]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/VehicleAdvBP/Maps/VehicleAdvExampleMap.VehicleAdvExampleMap to /Game/VehicleAdvBP/Maps/UEDPIE_0_VehicleAdvExampleMap.VehicleAdvExampleMap (0.067552s)
+[2018.02.02-03.37.13:149][713]LogInit: XAudio2 using 'Headset Earphone (3- Corsair Gaming H2100 Headset)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2018.02.02-03.37.13:170][713]LogInit: FAudioDevice initialized.
+[2018.02.02-03.37.13:285][713]LogLoad: Game class is 'VehicleAdvGameMode_C'
+[2018.02.02-03.37.13:304][713]LogWorld: Bringing World /Game/VehicleAdvBP/Maps/UEDPIE_0_VehicleAdvExampleMap.VehicleAdvExampleMap up for play (max tick rate 0) at 2018.02.01-21.37.13
+[2018.02.02-03.37.13:305][713]LogWorld: Bringing up level for play took: 0.012704
+[2018.02.02-03.37.13:320][713]PIE: Play in editor start time for /Game/VehicleAdvBP/Maps/UEDPIE_0_VehicleAdvExampleMap -0.124
+[2018.02.02-03.37.46:953][824]BlueprintLog: New page: Compile ArcadeCar
+[2018.02.02-03.37.48:901][845]LogSavePackage: Save=175.05ms
+[2018.02.02-03.37.48:901][845]LogSavePackage: Moving '../../../../../../Users/brixo/OneDrive/Documents/Unreal Projects/EETesting/Saved/ArcadeCar5C5086454347A39A8D55A6935E3AD193.tmp' to '../../../../../../Users/brixo/OneDrive/Documents/Unreal Projects/EETesting/Content/VehicleAdvBP/Blueprints/ArcadeCar.uasset'
+[2018.02.02-03.37.48:913][845]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/brixo/OneDrive/Documents/Unreal Projects/EETesting/Content/VehicleAdvBP/Blueprints/ArcadeCar.uasset
+[2018.02.02-03.37.49:687][873]LogTemp: Repeating last play command: Selected Viewport
+[2018.02.02-03.37.49:756][873]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.02.02-03.37.49:756][873]PIE: New page: PIE session: VehicleAdvExampleMap (Feb 1, 2018, 3:37:49 PM)
+[2018.02.02-03.37.49:756][873]LogPlayLevel: Creating play world package: /Game/VehicleAdvBP/Maps/UEDPIE_0_VehicleAdvExampleMap
+[2018.02.02-03.37.49:821][873]LogPlayLevel: PIE: StaticDuplicateObject took: (0.064687s)
+[2018.02.02-03.37.49:823][873]LogAIModule: Creating AISystem for world VehicleAdvExampleMap
+[2018.02.02-03.37.49:824][873]LogPlayLevel: PIE: World Init took: (0.002385s)
+[2018.02.02-03.37.49:825][873]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/VehicleAdvBP/Maps/VehicleAdvExampleMap.VehicleAdvExampleMap to /Game/VehicleAdvBP/Maps/UEDPIE_0_VehicleAdvExampleMap.VehicleAdvExampleMap (0.068354s)
+[2018.02.02-03.37.49:901][873]LogInit: XAudio2 using 'Headset Earphone (3- Corsair Gaming H2100 Headset)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2018.02.02-03.37.49:921][873]LogInit: FAudioDevice initialized.
+[2018.02.02-03.37.50:031][873]LogLoad: Game class is 'VehicleAdvGameMode_C'
+[2018.02.02-03.37.50:045][873]LogWorld: Bringing World /Game/VehicleAdvBP/Maps/UEDPIE_0_VehicleAdvExampleMap.VehicleAdvExampleMap up for play (max tick rate 0) at 2018.02.01-21.37.50
+[2018.02.02-03.37.50:046][873]LogWorld: Bringing up level for play took: 0.011385
+[2018.02.02-03.37.50:062][873]PIE: Play in editor start time for /Game/VehicleAdvBP/Maps/UEDPIE_0_VehicleAdvExampleMap 0.618
+[2018.02.02-03.37.56:530][ 75]LogTemp: Repeating last play command: Selected Viewport
+[2018.02.02-03.37.56:580][ 75]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.02.02-03.37.56:580][ 75]PIE: New page: PIE session: VehicleAdvExampleMap (Feb 1, 2018, 3:37:56 PM)
+[2018.02.02-03.37.56:581][ 75]LogPlayLevel: Creating play world package: /Game/VehicleAdvBP/Maps/UEDPIE_0_VehicleAdvExampleMap
+[2018.02.02-03.37.56:646][ 75]LogPlayLevel: PIE: StaticDuplicateObject took: (0.064894s)
+[2018.02.02-03.37.56:648][ 75]LogAIModule: Creating AISystem for world VehicleAdvExampleMap
+[2018.02.02-03.37.56:649][ 75]LogPlayLevel: PIE: World Init took: (0.002528s)
+[2018.02.02-03.37.56:649][ 75]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/VehicleAdvBP/Maps/VehicleAdvExampleMap.VehicleAdvExampleMap to /Game/VehicleAdvBP/Maps/UEDPIE_0_VehicleAdvExampleMap.VehicleAdvExampleMap (0.068517s)
+[2018.02.02-03.37.56:728][ 75]LogInit: XAudio2 using 'Headset Earphone (3- Corsair Gaming H2100 Headset)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2018.02.02-03.37.56:748][ 75]LogInit: FAudioDevice initialized.
+[2018.02.02-03.37.56:854][ 75]LogLoad: Game class is 'VehicleAdvGameMode_C'
+[2018.02.02-03.37.56:872][ 75]LogWorld: Bringing World /Game/VehicleAdvBP/Maps/UEDPIE_0_VehicleAdvExampleMap.VehicleAdvExampleMap up for play (max tick rate 0) at 2018.02.01-21.37.56
+[2018.02.02-03.37.56:873][ 75]LogWorld: Bringing up level for play took: 0.010794
+[2018.02.02-03.37.56:887][ 75]PIE: Play in editor start time for /Game/VehicleAdvBP/Maps/UEDPIE_0_VehicleAdvExampleMap -0.556
+[2018.02.02-03.38.07:764][431]BlueprintLog: New page: Compile ArcadeCar
+[2018.02.02-03.38.09:493][445]LogSavePackage: Save=167.40ms
+[2018.02.02-03.38.09:493][445]LogSavePackage: Moving '../../../../../../Users/brixo/OneDrive/Documents/Unreal Projects/EETesting/Saved/ArcadeCar326542A94E862BEA65FE4E8D42829BDD.tmp' to '../../../../../../Users/brixo/OneDrive/Documents/Unreal Projects/EETesting/Content/VehicleAdvBP/Blueprints/ArcadeCar.uasset'
+[2018.02.02-03.38.09:504][445]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/brixo/OneDrive/Documents/Unreal Projects/EETesting/Content/VehicleAdvBP/Blueprints/ArcadeCar.uasset
+[2018.02.02-03.38.10:454][481]LogTemp: Repeating last play command: Selected Viewport
+[2018.02.02-03.38.10:519][481]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.02.02-03.38.10:519][481]PIE: New page: PIE session: VehicleAdvExampleMap (Feb 1, 2018, 3:38:10 PM)
+[2018.02.02-03.38.10:520][481]LogPlayLevel: Creating play world package: /Game/VehicleAdvBP/Maps/UEDPIE_0_VehicleAdvExampleMap
+[2018.02.02-03.38.10:587][481]LogPlayLevel: PIE: StaticDuplicateObject took: (0.067244s)
+[2018.02.02-03.38.10:589][481]LogAIModule: Creating AISystem for world VehicleAdvExampleMap
+[2018.02.02-03.38.10:590][481]LogPlayLevel: PIE: World Init took: (0.002876s)
+[2018.02.02-03.38.10:591][481]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/VehicleAdvBP/Maps/VehicleAdvExampleMap.VehicleAdvExampleMap to /Game/VehicleAdvBP/Maps/UEDPIE_0_VehicleAdvExampleMap.VehicleAdvExampleMap (0.071188s)
+[2018.02.02-03.38.10:658][481]LogInit: XAudio2 using 'Headset Earphone (3- Corsair Gaming H2100 Headset)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2018.02.02-03.38.10:679][481]LogInit: FAudioDevice initialized.
+[2018.02.02-03.38.10:777][481]LogLoad: Game class is 'VehicleAdvGameMode_C'
+[2018.02.02-03.38.10:791][481]LogWorld: Bringing World /Game/VehicleAdvBP/Maps/UEDPIE_0_VehicleAdvExampleMap.VehicleAdvExampleMap up for play (max tick rate 0) at 2018.02.01-21.38.10
+[2018.02.02-03.38.10:793][481]LogWorld: Bringing up level for play took: 0.011119
+[2018.02.02-03.38.10:804][481]PIE: Play in editor start time for /Game/VehicleAdvBP/Maps/UEDPIE_0_VehicleAdvExampleMap -0.64
+[2018.02.02-03.38.24:968][935]BlueprintLog: New page: Compile ArcadeCar
+[2018.02.02-03.38.26:691][949]LogSavePackage: Save=177.40ms
+[2018.02.02-03.38.26:691][949]LogSavePackage: Moving '../../../../../../Users/brixo/OneDrive/Documents/Unreal Projects/EETesting/Saved/ArcadeCarBB45EAFA4BF11FA84C187C9CDC46BA06.tmp' to '../../../../../../Users/brixo/OneDrive/Documents/Unreal Projects/EETesting/Content/VehicleAdvBP/Blueprints/ArcadeCar.uasset'
+[2018.02.02-03.38.26:700][949]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/brixo/OneDrive/Documents/Unreal Projects/EETesting/Content/VehicleAdvBP/Blueprints/ArcadeCar.uasset
+[2018.02.02-03.38.27:516][977]LogTemp: Repeating last play command: Selected Viewport
+[2018.02.02-03.38.27:584][977]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.02.02-03.38.27:585][977]PIE: New page: PIE session: VehicleAdvExampleMap (Feb 1, 2018, 3:38:27 PM)
+[2018.02.02-03.38.27:585][977]LogPlayLevel: Creating play world package: /Game/VehicleAdvBP/Maps/UEDPIE_0_VehicleAdvExampleMap
+[2018.02.02-03.38.27:652][977]LogPlayLevel: PIE: StaticDuplicateObject took: (0.067027s)
+[2018.02.02-03.38.27:654][977]LogAIModule: Creating AISystem for world VehicleAdvExampleMap
+[2018.02.02-03.38.27:655][977]LogPlayLevel: PIE: World Init took: (0.002209s)
+[2018.02.02-03.38.27:655][977]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/VehicleAdvBP/Maps/VehicleAdvExampleMap.VehicleAdvExampleMap to /Game/VehicleAdvBP/Maps/UEDPIE_0_VehicleAdvExampleMap.VehicleAdvExampleMap (0.069997s)
+[2018.02.02-03.38.27:725][977]LogInit: XAudio2 using 'Headset Earphone (3- Corsair Gaming H2100 Headset)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2018.02.02-03.38.27:745][977]LogInit: FAudioDevice initialized.
+[2018.02.02-03.38.27:847][977]LogLoad: Game class is 'VehicleAdvGameMode_C'
+[2018.02.02-03.38.27:864][977]LogWorld: Bringing World /Game/VehicleAdvBP/Maps/UEDPIE_0_VehicleAdvExampleMap.VehicleAdvExampleMap up for play (max tick rate 0) at 2018.02.01-21.38.27
+[2018.02.02-03.38.27:865][977]LogWorld: Bringing up level for play took: 0.012894
+[2018.02.02-03.38.27:880][977]PIE: Play in editor start time for /Game/VehicleAdvBP/Maps/UEDPIE_0_VehicleAdvExampleMap 0.436
+[2018.02.02-03.38.57:022][941]BlueprintLog: New page: Compile ArcadeCar
+[2018.02.02-03.38.58:721][953]LogSavePackage: Save=171.11ms
+[2018.02.02-03.38.58:721][953]LogSavePackage: Moving '../../../../../../Users/brixo/OneDrive/Documents/Unreal Projects/EETesting/Saved/ArcadeCar9C03C17B4C719C2FF633D28EB29CB0FA.tmp' to '../../../../../../Users/brixo/OneDrive/Documents/Unreal Projects/EETesting/Content/VehicleAdvBP/Blueprints/ArcadeCar.uasset'
+[2018.02.02-03.38.58:731][953]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/brixo/OneDrive/Documents/Unreal Projects/EETesting/Content/VehicleAdvBP/Blueprints/ArcadeCar.uasset
+[2018.02.02-03.38.59:419][979]LogTemp: Repeating last play command: Selected Viewport
+[2018.02.02-03.38.59:490][979]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.02.02-03.38.59:491][979]PIE: New page: PIE session: VehicleAdvExampleMap (Feb 1, 2018, 3:38:59 PM)
+[2018.02.02-03.38.59:491][979]LogPlayLevel: Creating play world package: /Game/VehicleAdvBP/Maps/UEDPIE_0_VehicleAdvExampleMap
+[2018.02.02-03.38.59:562][979]LogPlayLevel: PIE: StaticDuplicateObject took: (0.070062s)
+[2018.02.02-03.38.59:564][979]LogAIModule: Creating AISystem for world VehicleAdvExampleMap
+[2018.02.02-03.38.59:564][979]LogPlayLevel: PIE: World Init took: (0.002599s)
+[2018.02.02-03.38.59:565][979]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/VehicleAdvBP/Maps/VehicleAdvExampleMap.VehicleAdvExampleMap to /Game/VehicleAdvBP/Maps/UEDPIE_0_VehicleAdvExampleMap.VehicleAdvExampleMap (0.073698s)
+[2018.02.02-03.38.59:632][979]LogInit: XAudio2 using 'Headset Earphone (3- Corsair Gaming H2100 Headset)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2018.02.02-03.38.59:651][979]LogInit: FAudioDevice initialized.
+[2018.02.02-03.38.59:754][979]LogLoad: Game class is 'VehicleAdvGameMode_C'
+[2018.02.02-03.38.59:771][979]LogWorld: Bringing World /Game/VehicleAdvBP/Maps/UEDPIE_0_VehicleAdvExampleMap.VehicleAdvExampleMap up for play (max tick rate 0) at 2018.02.01-21.38.59
+[2018.02.02-03.38.59:772][979]LogWorld: Bringing up level for play took: 0.010386
+[2018.02.02-03.38.59:784][979]PIE: Play in editor start time for /Game/VehicleAdvBP/Maps/UEDPIE_0_VehicleAdvExampleMap 0.341
+[2018.02.02-03.39.14:950][487]BlueprintLog: New page: Compile ArcadeCar
+[2018.02.02-03.39.16:200][487]LogSavePackage: Save=165.46ms
+[2018.02.02-03.39.16:200][487]LogSavePackage: Moving '../../../../../../Users/brixo/OneDrive/Documents/Unreal Projects/EETesting/Saved/ArcadeCar9DE7500547B03B98AD41E9A676596693.tmp' to '../../../../../../Users/brixo/OneDrive/Documents/Unreal Projects/EETesting/Content/VehicleAdvBP/Blueprints/ArcadeCar.uasset'
+[2018.02.02-03.39.16:208][487]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/brixo/OneDrive/Documents/Unreal Projects/EETesting/Content/VehicleAdvBP/Blueprints/ArcadeCar.uasset
+[2018.02.02-03.39.16:883][497]LogSavePackage: Save=154.92ms
+[2018.02.02-03.39.16:883][497]LogSavePackage: Moving '../../../../../../Users/brixo/OneDrive/Documents/Unreal Projects/EETesting/Saved/ArcadeCar5B88679740DB5BF956EF8BA00D5573EF.tmp' to '../../../../../../Users/brixo/OneDrive/Documents/Unreal Projects/EETesting/Content/VehicleAdvBP/Blueprints/ArcadeCar.uasset'
+[2018.02.02-03.39.16:890][497]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/brixo/OneDrive/Documents/Unreal Projects/EETesting/Content/VehicleAdvBP/Blueprints/ArcadeCar.uasset
+[2018.02.02-03.39.17:506][517]LogTemp: Repeating last play command: Selected Viewport
+[2018.02.02-03.39.17:576][517]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.02.02-03.39.17:576][517]PIE: New page: PIE session: VehicleAdvExampleMap (Feb 1, 2018, 3:39:17 PM)
+[2018.02.02-03.39.17:576][517]LogPlayLevel: Creating play world package: /Game/VehicleAdvBP/Maps/UEDPIE_0_VehicleAdvExampleMap
+[2018.02.02-03.39.17:641][517]LogPlayLevel: PIE: StaticDuplicateObject took: (0.064280s)
+[2018.02.02-03.39.17:643][517]LogAIModule: Creating AISystem for world VehicleAdvExampleMap
+[2018.02.02-03.39.17:644][517]LogPlayLevel: PIE: World Init took: (0.002655s)
+[2018.02.02-03.39.17:645][517]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/VehicleAdvBP/Maps/VehicleAdvExampleMap.VehicleAdvExampleMap to /Game/VehicleAdvBP/Maps/UEDPIE_0_VehicleAdvExampleMap.VehicleAdvExampleMap (0.068260s)
+[2018.02.02-03.39.17:711][517]LogInit: XAudio2 using 'Headset Earphone (3- Corsair Gaming H2100 Headset)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2018.02.02-03.39.17:731][517]LogInit: FAudioDevice initialized.
+[2018.02.02-03.39.17:833][517]LogLoad: Game class is 'VehicleAdvGameMode_C'
+[2018.02.02-03.39.17:849][517]LogWorld: Bringing World /Game/VehicleAdvBP/Maps/UEDPIE_0_VehicleAdvExampleMap.VehicleAdvExampleMap up for play (max tick rate 0) at 2018.02.01-21.39.17
+[2018.02.02-03.39.17:851][517]LogWorld: Bringing up level for play took: 0.013133
+[2018.02.02-03.39.17:863][517]PIE: Play in editor start time for /Game/VehicleAdvBP/Maps/UEDPIE_0_VehicleAdvExampleMap 0.42
+[2018.02.02-03.39.40:151][259]BlueprintLog: New page: Compile ArcadeCar
+[2018.02.02-03.39.41:794][269]LogSavePackage: Save=175.50ms
+[2018.02.02-03.39.41:794][269]LogSavePackage: Moving '../../../../../../Users/brixo/OneDrive/Documents/Unreal Projects/EETesting/Saved/ArcadeCar107CCADD4785CB4E59658398B9E72C4A.tmp' to '../../../../../../Users/brixo/OneDrive/Documents/Unreal Projects/EETesting/Content/VehicleAdvBP/Blueprints/ArcadeCar.uasset'
+[2018.02.02-03.39.41:804][269]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/brixo/OneDrive/Documents/Unreal Projects/EETesting/Content/VehicleAdvBP/Blueprints/ArcadeCar.uasset
+[2018.02.02-03.39.42:409][292]LogTemp: Repeating last play command: Selected Viewport
+[2018.02.02-03.39.42:480][292]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.02.02-03.39.42:480][292]PIE: New page: PIE session: VehicleAdvExampleMap (Feb 1, 2018, 3:39:42 PM)
+[2018.02.02-03.39.42:481][292]LogPlayLevel: Creating play world package: /Game/VehicleAdvBP/Maps/UEDPIE_0_VehicleAdvExampleMap
+[2018.02.02-03.39.42:545][292]LogPlayLevel: PIE: StaticDuplicateObject took: (0.064639s)
+[2018.02.02-03.39.42:548][292]LogAIModule: Creating AISystem for world VehicleAdvExampleMap
+[2018.02.02-03.39.42:549][292]LogPlayLevel: PIE: World Init took: (0.003518s)
+[2018.02.02-03.39.42:550][292]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/VehicleAdvBP/Maps/VehicleAdvExampleMap.VehicleAdvExampleMap to /Game/VehicleAdvBP/Maps/UEDPIE_0_VehicleAdvExampleMap.VehicleAdvExampleMap (0.069204s)
+[2018.02.02-03.39.42:622][292]LogInit: XAudio2 using 'Headset Earphone (3- Corsair Gaming H2100 Headset)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2018.02.02-03.39.42:642][292]LogInit: FAudioDevice initialized.
+[2018.02.02-03.39.42:749][292]LogLoad: Game class is 'VehicleAdvGameMode_C'
+[2018.02.02-03.39.42:763][292]LogWorld: Bringing World /Game/VehicleAdvBP/Maps/UEDPIE_0_VehicleAdvExampleMap.VehicleAdvExampleMap up for play (max tick rate 0) at 2018.02.01-21.39.42
+[2018.02.02-03.39.42:765][292]LogWorld: Bringing up level for play took: 0.011329
+[2018.02.02-03.39.42:778][292]PIE: Play in editor start time for /Game/VehicleAdvBP/Maps/UEDPIE_0_VehicleAdvExampleMap -0.666
+[2018.02.02-03.42.26:971][522]LogSavePackage: Save=667.72ms
+[2018.02.02-03.42.26:971][522]LogSavePackage: Moving '../../../../../../Users/brixo/OneDrive/Documents/Unreal Projects/EETesting/Saved/VehicleAdvExampleMap_Auto4B9794A89499C32F17A7B4AB335EAC8FE.tmp' to '../../../../../../Users/brixo/OneDrive/Documents/Unreal Projects/EETesting/Saved/Autosaves/Game/VehicleAdvBP/Maps/VehicleAdvExampleMap_Auto4.umap'
+[2018.02.02-03.42.26:976][522]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/brixo/OneDrive/Documents/Unreal Projects/EETesting/Saved/Autosaves/Game/VehicleAdvBP/Maps/VehicleAdvExampleMap_Auto4.umap
+[2018.02.02-03.42.26:982][522]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/VehicleAdvBP/Maps/VehicleAdvExampleMap' took 0.833
+[2018.02.02-03.42.26:983][522]LogFileHelpers: Editor autosave (incl. sublevels) for all levels took 0.833
+[2018.02.02-03.47.42:350][194]LogBlueprint: Warning: [ArcadeCar] 'traceLength' variable not found. Base class was probably changed. /Game/VehicleAdvBP/Blueprints/ArcadeCar.ArcadeCar
+[2018.02.02-03.49.22:999][229]BlueprintLog: New page: Compile ArcadeCar
+[2018.02.02-03.49.24:759][249]LogSavePackage: Save=198.40ms
+[2018.02.02-03.49.24:759][249]LogSavePackage: Moving '../../../../../../Users/brixo/OneDrive/Documents/Unreal Projects/EETesting/Saved/ArcadeCar8471C19643527757872294B7F46DDB9B.tmp' to '../../../../../../Users/brixo/OneDrive/Documents/Unreal Projects/EETesting/Content/VehicleAdvBP/Blueprints/ArcadeCar.uasset'
+[2018.02.02-03.49.24:774][249]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/brixo/OneDrive/Documents/Unreal Projects/EETesting/Content/VehicleAdvBP/Blueprints/ArcadeCar.uasset
+[2018.02.02-03.49.26:546][326]LogTemp: Repeating last play command: Selected Viewport
+[2018.02.02-03.49.26:629][326]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.02.02-03.49.26:629][326]PIE: New page: PIE session: VehicleAdvExampleMap (Feb 1, 2018, 3:49:26 PM)
+[2018.02.02-03.49.26:629][326]LogPlayLevel: Creating play world package: /Game/VehicleAdvBP/Maps/UEDPIE_0_VehicleAdvExampleMap
+[2018.02.02-03.49.26:700][326]LogPlayLevel: PIE: StaticDuplicateObject took: (0.070166s)
+[2018.02.02-03.49.26:703][326]LogAIModule: Creating AISystem for world VehicleAdvExampleMap
+[2018.02.02-03.49.26:703][326]LogPlayLevel: PIE: World Init took: (0.003162s)
+[2018.02.02-03.49.26:704][326]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/VehicleAdvBP/Maps/VehicleAdvExampleMap.VehicleAdvExampleMap to /Game/VehicleAdvBP/Maps/UEDPIE_0_VehicleAdvExampleMap.VehicleAdvExampleMap (0.074709s)
+[2018.02.02-03.49.26:775][326]LogInit: XAudio2 using 'Headset Earphone (3- Corsair Gaming H2100 Headset)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2018.02.02-03.49.26:796][326]LogInit: FAudioDevice initialized.
+[2018.02.02-03.49.26:905][326]LogLoad: Game class is 'VehicleAdvGameMode_C'
+[2018.02.02-03.49.26:921][326]LogWorld: Bringing World /Game/VehicleAdvBP/Maps/UEDPIE_0_VehicleAdvExampleMap.VehicleAdvExampleMap up for play (max tick rate 0) at 2018.02.01-21.49.26
+[2018.02.02-03.49.26:922][326]LogWorld: Bringing up level for play took: 0.011184
+[2018.02.02-03.49.26:931][326]PIE: Play in editor start time for /Game/VehicleAdvBP/Maps/UEDPIE_0_VehicleAdvExampleMap -0.513
+[2018.02.02-03.50.24:775][681]BlueprintLog: New page: Compile ArcadeCar
+[2018.02.02-03.50.26:679][708]LogSavePackage: Save=207.92ms
+[2018.02.02-03.50.26:680][708]LogSavePackage: Moving '../../../../../../Users/brixo/OneDrive/Documents/Unreal Projects/EETesting/Saved/ArcadeCarE8759D8C4D1F66B8C12692A31A128A31.tmp' to '../../../../../../Users/brixo/OneDrive/Documents/Unreal Projects/EETesting/Content/VehicleAdvBP/Blueprints/ArcadeCar.uasset'
+[2018.02.02-03.50.26:692][708]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/brixo/OneDrive/Documents/Unreal Projects/EETesting/Content/VehicleAdvBP/Blueprints/ArcadeCar.uasset
+[2018.02.02-03.50.27:423][738]LogTemp: Repeating last play command: Selected Viewport
+[2018.02.02-03.50.27:508][738]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.02.02-03.50.27:509][738]PIE: New page: PIE session: VehicleAdvExampleMap (Feb 1, 2018, 3:50:27 PM)
+[2018.02.02-03.50.27:509][738]LogPlayLevel: Creating play world package: /Game/VehicleAdvBP/Maps/UEDPIE_0_VehicleAdvExampleMap
+[2018.02.02-03.50.27:577][738]LogPlayLevel: PIE: StaticDuplicateObject took: (0.067524s)
+[2018.02.02-03.50.27:578][738]LogAIModule: Creating AISystem for world VehicleAdvExampleMap
+[2018.02.02-03.50.27:579][738]LogPlayLevel: PIE: World Init took: (0.002201s)
+[2018.02.02-03.50.27:580][738]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/VehicleAdvBP/Maps/VehicleAdvExampleMap.VehicleAdvExampleMap to /Game/VehicleAdvBP/Maps/UEDPIE_0_VehicleAdvExampleMap.VehicleAdvExampleMap (0.070688s)
+[2018.02.02-03.50.27:657][738]LogInit: XAudio2 using 'Headset Earphone (3- Corsair Gaming H2100 Headset)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2018.02.02-03.50.27:677][738]LogInit: FAudioDevice initialized.
+[2018.02.02-03.50.27:782][738]LogLoad: Game class is 'VehicleAdvGameMode_C'
+[2018.02.02-03.50.27:796][738]LogWorld: Bringing World /Game/VehicleAdvBP/Maps/UEDPIE_0_VehicleAdvExampleMap.VehicleAdvExampleMap up for play (max tick rate 0) at 2018.02.01-21.50.27
+[2018.02.02-03.50.27:797][738]LogWorld: Bringing up level for play took: 0.010915
+[2018.02.02-03.50.27:806][738]PIE: Play in editor start time for /Game/VehicleAdvBP/Maps/UEDPIE_0_VehicleAdvExampleMap 0.363
+[2018.02.02-03.50.59:506][905]LogTemp: Repeating last play command: Selected Viewport
+[2018.02.02-03.50.59:558][905]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.02.02-03.50.59:559][905]PIE: New page: PIE session: VehicleAdvExampleMap (Feb 1, 2018, 3:50:59 PM)
+[2018.02.02-03.50.59:559][905]LogPlayLevel: Creating play world package: /Game/VehicleAdvBP/Maps/UEDPIE_0_VehicleAdvExampleMap
+[2018.02.02-03.50.59:626][905]LogPlayLevel: PIE: StaticDuplicateObject took: (0.067693s)
+[2018.02.02-03.50.59:628][905]LogAIModule: Creating AISystem for world VehicleAdvExampleMap
+[2018.02.02-03.50.59:629][905]LogPlayLevel: PIE: World Init took: (0.002427s)
+[2018.02.02-03.50.59:629][905]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/VehicleAdvBP/Maps/VehicleAdvExampleMap.VehicleAdvExampleMap to /Game/VehicleAdvBP/Maps/UEDPIE_0_VehicleAdvExampleMap.VehicleAdvExampleMap (0.070952s)
+[2018.02.02-03.50.59:701][905]LogInit: XAudio2 using 'Headset Earphone (3- Corsair Gaming H2100 Headset)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2018.02.02-03.50.59:722][905]LogInit: FAudioDevice initialized.
+[2018.02.02-03.50.59:828][905]LogLoad: Game class is 'VehicleAdvGameMode_C'
+[2018.02.02-03.50.59:844][905]LogWorld: Bringing World /Game/VehicleAdvBP/Maps/UEDPIE_0_VehicleAdvExampleMap.VehicleAdvExampleMap up for play (max tick rate 0) at 2018.02.01-21.50.59
+[2018.02.02-03.50.59:847][905]LogWorld: Bringing up level for play took: 0.013556
+[2018.02.02-03.50.59:861][905]PIE: Play in editor start time for /Game/VehicleAdvBP/Maps/UEDPIE_0_VehicleAdvExampleMap 0.417
+[2018.02.02-03.53.38:632][769]LogSavePackage: Save=605.77ms
+[2018.02.02-03.53.38:632][769]LogSavePackage: Moving '../../../../../../Users/brixo/OneDrive/Documents/Unreal Projects/EETesting/Saved/VehicleAdvExampleMap061603EB4AAF9AEA8B4143B7BAB96769.tmp' to '../../../../../../Users/brixo/OneDrive/Documents/Unreal Projects/EETesting/Content/VehicleAdvBP/Maps/VehicleAdvExampleMap.umap'
+[2018.02.02-03.53.38:646][769]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/brixo/OneDrive/Documents/Unreal Projects/EETesting/Content/VehicleAdvBP/Maps/VehicleAdvExampleMap.umap
+[2018.02.02-03.53.38:715][769]LogFileHelpers: Saving map 'VehicleAdvExampleMap' took 0.985
+[2018.02.02-03.56.47:885][381]BlueprintLog: New page: Compile ArcadeCar
+[2018.02.02-03.56.49:678][402]LogSavePackage: Save=194.50ms
+[2018.02.02-03.56.49:678][402]LogSavePackage: Moving '../../../../../../Users/brixo/OneDrive/Documents/Unreal Projects/EETesting/Saved/ArcadeCar7BAC15D649168C4BACEB38AC16430C7C.tmp' to '../../../../../../Users/brixo/OneDrive/Documents/Unreal Projects/EETesting/Content/VehicleAdvBP/Blueprints/ArcadeCar.uasset'
+[2018.02.02-03.56.49:692][402]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/brixo/OneDrive/Documents/Unreal Projects/EETesting/Content/VehicleAdvBP/Blueprints/ArcadeCar.uasset
+[2018.02.02-03.56.50:295][429]LogTemp: Repeating last play command: Selected Viewport
+[2018.02.02-03.56.50:378][429]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.02.02-03.56.50:378][429]PIE: New page: PIE session: VehicleAdvExampleMap (Feb 1, 2018, 3:56:50 PM)
+[2018.02.02-03.56.50:379][429]LogPlayLevel: Creating play world package: /Game/VehicleAdvBP/Maps/UEDPIE_0_VehicleAdvExampleMap
+[2018.02.02-03.56.50:448][429]LogPlayLevel: PIE: StaticDuplicateObject took: (0.069139s)
+[2018.02.02-03.56.50:451][429]LogAIModule: Creating AISystem for world VehicleAdvExampleMap
+[2018.02.02-03.56.50:451][429]LogPlayLevel: PIE: World Init took: (0.002789s)
+[2018.02.02-03.56.50:452][429]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/VehicleAdvBP/Maps/VehicleAdvExampleMap.VehicleAdvExampleMap to /Game/VehicleAdvBP/Maps/UEDPIE_0_VehicleAdvExampleMap.VehicleAdvExampleMap (0.072985s)
+[2018.02.02-03.56.50:522][429]LogInit: XAudio2 using 'Headset Earphone (3- Corsair Gaming H2100 Headset)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2018.02.02-03.56.50:547][429]LogInit: FAudioDevice initialized.
+[2018.02.02-03.56.50:657][429]LogLoad: Game class is 'VehicleAdvGameMode_C'
+[2018.02.02-03.56.50:675][429]LogWorld: Bringing World /Game/VehicleAdvBP/Maps/UEDPIE_0_VehicleAdvExampleMap.VehicleAdvExampleMap up for play (max tick rate 0) at 2018.02.01-21.56.50
+[2018.02.02-03.56.50:678][429]LogWorld: Bringing up level for play took: 0.014749
+[2018.02.02-03.56.50:692][429]PIE: Play in editor start time for /Game/VehicleAdvBP/Maps/UEDPIE_0_VehicleAdvExampleMap 1.249
+[2018.02.02-03.58.19:580][ 87]BlueprintLog: New page: Compile ArcadeCar
+[2018.02.02-03.58.21:526][116]LogSavePackage: Save=194.72ms
+[2018.02.02-03.58.21:526][116]LogSavePackage: Moving '../../../../../../Users/brixo/OneDrive/Documents/Unreal Projects/EETesting/Saved/ArcadeCar0E44C30746A276E719111DA9B5B1E748.tmp' to '../../../../../../Users/brixo/OneDrive/Documents/Unreal Projects/EETesting/Content/VehicleAdvBP/Blueprints/ArcadeCar.uasset'
+[2018.02.02-03.58.21:539][116]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/brixo/OneDrive/Documents/Unreal Projects/EETesting/Content/VehicleAdvBP/Blueprints/ArcadeCar.uasset
+[2018.02.02-03.59.43:418][969]LogSavePackage: Save=605.50ms
+[2018.02.02-03.59.43:418][969]LogSavePackage: Moving '../../../../../../Users/brixo/OneDrive/Documents/Unreal Projects/EETesting/Saved/VehicleAdvExampleMapD85FFB23484EEF5EABAA84A878BA7DE3.tmp' to '../../../../../../Users/brixo/OneDrive/Documents/Unreal Projects/EETesting/Content/VehicleAdvBP/Maps/VehicleAdvExampleMap.umap'
+[2018.02.02-03.59.43:433][969]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/brixo/OneDrive/Documents/Unreal Projects/EETesting/Content/VehicleAdvBP/Maps/VehicleAdvExampleMap.umap
+[2018.02.02-03.59.45:645][969]LogSavePackage: Save=1919.03ms
+[2018.02.02-03.59.45:645][969]LogSavePackage: Moving '../../../../../../Users/brixo/OneDrive/Documents/Unreal Projects/EETesting/Saved/VehicleAdvExampleMap_BuiltDataB8DF810D4A2462A736F9C0A348AB56A0.tmp' to '../../../../../../Users/brixo/OneDrive/Documents/Unreal Projects/EETesting/Content/VehicleAdvBP/Maps/VehicleAdvExampleMap_BuiltData.uasset'
+[2018.02.02-03.59.45:674][969]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/brixo/OneDrive/Documents/Unreal Projects/EETesting/Content/VehicleAdvBP/Maps/VehicleAdvExampleMap_BuiltData.uasset
+[2018.02.02-03.59.49:302][105]LogActorComponent: UnregisterComponent: (/Engine/Transient.EditorFloorComp) Not registered. Aborting.
+[2018.02.02-03.59.49:673][105]LogWindowsTextInputMethodSystem: Display: IME system now deactivated.
+[2018.02.02-03.59.49:674][105]LogWindowsTextInputMethodSystem: Display: IME system now deactivated.
+[2018.02.02-03.59.50:616][106]Cmd: QUIT_EDITOR
+[2018.02.02-03.59.51:240][106]LogExit: Preparing to exit.
+[2018.02.02-03.59.52:333][106]LogDirectoryWatcher: A directory notification for 'C:/Users/brixo/OneDrive/Documents/Unreal Projects/EETesting/Content/' was aborted.
+[2018.02.02-03.59.52:611][106]LogExit: Editor shut down
+[2018.02.02-03.59.52:682][106]LogExit: Transaction tracking system shut down
+[2018.02.02-03.59.52:949][106]LogDirectoryWatcher: A directory notification for '../../../Engine/Content/' was aborted.
+[2018.02.02-03.59.52:949][106]LogDirectoryWatcher: A directory notification for '../../../../../../Users/brixo/OneDrive/Documents/Unreal Projects/EETesting/Content/' was aborted.
+[2018.02.02-03.59.52:950][106]LogDirectoryWatcher: A directory notification for '../../../Engine/Plugins/2D/Paper2D/Content/' was aborted.
+[2018.02.02-03.59.52:950][106]LogDirectoryWatcher: A directory notification for '../../../Engine/Plugins/Media/MediaCompositing/Content/' was aborted.
+[2018.02.02-03.59.52:950][106]LogDirectoryWatcher: A directory notification for '../../../Engine/Plugins/Runtime/AppleARKit/Content/' was aborted.
+[2018.02.02-03.59.52:950][106]LogDirectoryWatcher: A directory notification for '../../../Engine/Plugins/Runtime/Oculus/OculusVR/Content/' was aborted.
+[2018.02.02-03.59.52:950][106]LogDirectoryWatcher: A directory notification for '../../../Engine/Plugins/Runtime/Steam/SteamVR/Content/' was aborted.
+[2018.02.02-03.59.53:449][106]LogExit: Object subsystem successfully closed.
+[2018.02.02-03.59.53:516][106]LogD3D11RHI: Shutdown
+[2018.02.02-03.59.53:516][106]LogD3D11RHI: CleanupD3DDevice
+[2018.02.02-03.59.53:549][106]LogD3D11RHI: ~FD3D11DynamicRHI
+[2018.02.02-03.59.53:596][106]LogModuleManager: Shutting down and abandoning module BlueprintGraph (556)
+[2018.02.02-03.59.53:596][106]LogModuleManager: Shutting down and abandoning module MovieSceneCapture (554)
+[2018.02.02-03.59.53:597][106]LogModuleManager: Shutting down and abandoning module HierarchicalLODOutliner (552)
+[2018.02.02-03.59.53:597][106]LogModuleManager: Shutting down and abandoning module ExternalImagePicker (550)
+[2018.02.02-03.59.53:597][106]LogModuleManager: Shutting down and abandoning module SceneOutliner (548)
+[2018.02.02-03.59.53:614][106]LogModuleManager: Shutting down and abandoning module AddContentDialog (546)
+[2018.02.02-03.59.53:624][106]LogDirectoryWatcher: A directory notification for 'C:/Program Files/Epic Games/UE_4.18/FeaturePacks/' was aborted.
+[2018.02.02-03.59.53:638][106]LogModuleManager: Shutting down and abandoning module WidgetCarousel (545)
+[2018.02.02-03.59.53:638][106]LogModuleManager: Shutting down and abandoning module EditorWidgets (542)
+[2018.02.02-03.59.53:638][106]LogModuleManager: Shutting down and abandoning module CollectionManager (540)
+[2018.02.02-03.59.53:638][106]LogDirectoryWatcher: A directory notification for 'C:/Users/brixo/OneDrive/Documents/Unreal Projects/EETesting/Content/Collections/' was aborted.
+[2018.02.02-03.59.53:639][106]LogDirectoryWatcher: A directory notification for 'C:/Users/brixo/OneDrive/Documents/Unreal Projects/EETesting/Content/Developers/brixo/Collections/' was aborted.
+[2018.02.02-03.59.53:639][106]LogDirectoryWatcher: A directory notification for 'C:/Users/brixo/OneDrive/Documents/Unreal Projects/EETesting/Saved/Collections/' was aborted.
+[2018.02.02-03.59.53:639][106]LogModuleManager: Shutting down and abandoning module StatsViewer (538)
+[2018.02.02-03.59.53:639][106]LogModuleManager: Shutting down and abandoning module FoliageEdit (536)
+[2018.02.02-03.59.53:639][106]LogModuleManager: Shutting down and abandoning module LandscapeEditor (534)
+[2018.02.02-03.59.53:640][106]LogModuleManager: Shutting down and abandoning module MeshPaintMode (532)
+[2018.02.02-03.59.53:640][106]LogModuleManager: Shutting down and abandoning module SceneDepthPickerMode (530)
+[2018.02.02-03.59.53:640][106]LogModuleManager: Shutting down and abandoning module ActorPickerMode (528)
+[2018.02.02-03.59.53:640][106]LogModuleManager: Shutting down and abandoning module GeometryMode (526)
+[2018.02.02-03.59.53:640][106]LogModuleManager: Shutting down and abandoning module TextureAlignMode (524)
+[2018.02.02-03.59.53:640][106]LogModuleManager: Shutting down and abandoning module BspMode (522)
+[2018.02.02-03.59.53:640][106]LogModuleManager: Shutting down and abandoning module PIEPreviewDeviceProfileSelector (520)
+[2018.02.02-03.59.53:640][106]LogModuleManager: Shutting down and abandoning module HardwareSurvey (518)
+[2018.02.02-03.59.53:640][106]LogModuleManager: Shutting down and abandoning module SequenceRecorderSections (516)
+[2018.02.02-03.59.53:640][106]LogModuleManager: Shutting down and abandoning module AutomationWorker (514)
+[2018.02.02-03.59.53:640][106]LogModuleManager: Shutting down and abandoning module MatineeToLevelSequence (512)
+[2018.02.02-03.59.53:640][106]LogModuleManager: Shutting down and abandoning module LevelSequenceEditor (510)
+[2018.02.02-03.59.53:640][106]LogModuleManager: Shutting down and abandoning module PlacementMode (509)
+[2018.02.02-03.59.53:640][106]LogModuleManager: Shutting down and abandoning module WmfMediaFactory (506)
+[2018.02.02-03.59.53:640][106]LogModuleManager: Shutting down and abandoning module WmfMediaEditor (504)
+[2018.02.02-03.59.53:640][106]LogModuleManager: Shutting down and abandoning module OpenExrWrapper (502)
+[2018.02.02-03.59.53:640][106]LogModuleManager: Shutting down and abandoning module ImgMediaFactory (500)
+[2018.02.02-03.59.53:640][106]LogModuleManager: Shutting down and abandoning module ImgMediaEditor (498)
+[2018.02.02-03.59.53:640][106]LogModuleManager: Shutting down and abandoning module AvfMediaFactory (496)
+[2018.02.02-03.59.53:640][106]LogModuleManager: Shutting down and abandoning module AvfMediaEditor (494)
+[2018.02.02-03.59.53:640][106]LogModuleManager: Shutting down and abandoning module AndroidMediaFactory (492)
+[2018.02.02-03.59.53:641][106]LogModuleManager: Shutting down and abandoning module AndroidMediaEditor (490)
+[2018.02.02-03.59.53:641][106]LogModuleManager: Shutting down and abandoning module CharacterAI (488)
+[2018.02.02-03.59.53:641][106]LogModuleManager: Shutting down and abandoning module AudioCapture (486)
+[2018.02.02-03.59.53:641][106]LogModuleManager: Shutting down and abandoning module SequenceRecorder (485)
+[2018.02.02-03.59.53:641][106]LogModuleManager: Shutting down and abandoning module SmartSnapping (482)
+[2018.02.02-03.59.53:641][106]LogModuleManager: Shutting down and abandoning module SessionServices (480)
+[2018.02.02-03.59.53:641][106]LogModuleManager: Shutting down and abandoning module ViewportSnapping (478)
+[2018.02.02-03.59.53:641][106]LogModuleManager: Shutting down and abandoning module ViewportInteraction (476)
+[2018.02.02-03.59.53:641][106]LogModuleManager: Shutting down and abandoning module ClothPainter (474)
+[2018.02.02-03.59.53:641][106]LogModuleManager: Shutting down and abandoning module SkeletalMeshEditor (473)
+[2018.02.02-03.59.53:641][106]LogModuleManager: Shutting down and abandoning module LogVisualizer (470)
+[2018.02.02-03.59.53:641][106]LogModuleManager: Shutting down and abandoning module IntroTutorials (468)
+[2018.02.02-03.59.53:647][106]LogModuleManager: Shutting down and abandoning module GameProjectGeneration (467)
+[2018.02.02-03.59.53:647][106]LogModuleManager: Shutting down and abandoning module IOSPlatformEditor (464)
+[2018.02.02-03.59.53:647][106]LogModuleManager: Shutting down and abandoning module HTML5PlatformEditor (462)
+[2018.02.02-03.59.53:647][106]LogModuleManager: Shutting down and abandoning module AndroidPlatformEditor (460)
+[2018.02.02-03.59.53:647][106]LogModuleManager: Shutting down and abandoning module AndroidDeviceDetection (459)
+[2018.02.02-03.59.54:214][106]LogModuleManager: Shutting down and abandoning module WindowsPlatformEditor (456)
+[2018.02.02-03.59.54:214][106]LogModuleManager: Shutting down and abandoning module IOSRuntimeSettings (454)
+[2018.02.02-03.59.54:214][106]LogModuleManager: Shutting down and abandoning module AndroidRuntimeSettings (452)
+[2018.02.02-03.59.54:214][106]LogModuleManager: Shutting down and abandoning module InputBindingEditor (450)
+[2018.02.02-03.59.54:214][106]LogModuleManager: Shutting down and abandoning module MergeActors (448)
+[2018.02.02-03.59.54:214][106]LogModuleManager: Shutting down and abandoning module SizeMap (446)
+[2018.02.02-03.59.54:214][106]LogModuleManager: Shutting down and abandoning module TreeMap (444)
+[2018.02.02-03.59.54:214][106]LogModuleManager: Shutting down and abandoning module ReferenceViewer (442)
+[2018.02.02-03.59.54:215][106]LogModuleManager: Shutting down and abandoning module LocalizationDashboard (440)
+[2018.02.02-03.59.54:215][106]LogModuleManager: Shutting down and abandoning module LocalizationService (439)
+[2018.02.02-03.59.54:215][106]LogModuleManager: Shutting down and abandoning module HardwareTargeting (436)
+[2018.02.02-03.59.54:215][106]LogModuleManager: Shutting down and abandoning module DeviceProfileEditor (434)
+[2018.02.02-03.59.54:215][106]LogModuleManager: Shutting down and abandoning module UndoHistory (432)
+[2018.02.02-03.59.54:215][106]LogModuleManager: Shutting down and abandoning module XmlParser (430)
+[2018.02.02-03.59.54:215][106]LogModuleManager: Shutting down and abandoning module Blutility (428)
+[2018.02.02-03.59.54:215][106]LogModuleManager: Shutting down and abandoning module ProjectSettingsViewer (426)
+[2018.02.02-03.59.54:215][106]LogModuleManager: Shutting down and abandoning module ProjectTargetPlatformEditor (425)
+[2018.02.02-03.59.54:216][106]LogModuleManager: Shutting down and abandoning module EditorSettingsViewer (422)
+[2018.02.02-03.59.54:216][106]LogModuleManager: Shutting down and abandoning module SettingsEditor (420)
+[2018.02.02-03.59.54:216][106]LogModuleManager: Shutting down and abandoning module ProjectLauncher (418)
+[2018.02.02-03.59.54:216][106]LogModuleManager: Shutting down and abandoning module SessionFrontend (416)
+[2018.02.02-03.59.54:216][106]LogModuleManager: Shutting down and abandoning module ProfilerClient (414)
+[2018.02.02-03.59.54:216][106]LogModuleManager: Shutting down and abandoning module DeviceManager (412)
+[2018.02.02-03.59.54:216][106]LogModuleManager: Shutting down and abandoning module TargetDeviceServices (411)
+[2018.02.02-03.59.54:280][106]LogModuleManager: Shutting down and abandoning module AutomationController (408)
+[2018.02.02-03.59.54:280][106]LogModuleManager: Shutting down and abandoning module AutomationWindow (406)
+[2018.02.02-03.59.54:280][106]LogModuleManager: Shutting down and abandoning module Layers (404)
+[2018.02.02-03.59.54:280][106]LogModuleManager: Shutting down and abandoning module ComponentVisualizers (402)
+[2018.02.02-03.59.54:280][106]LogModuleManager: Shutting down and abandoning module DetailCustomizations (400)
+[2018.02.02-03.59.54:281][106]LogModuleManager: Shutting down and abandoning module PackagesDialog (398)
+[2018.02.02-03.59.54:282][106]LogModuleManager: Shutting down and abandoning module Persona (396)
+[2018.02.02-03.59.54:282][106]LogModuleManager: Shutting down and abandoning module AdvancedPreviewScene (395)
+[2018.02.02-03.59.54:282][106]LogModuleManager: Shutting down and abandoning module AnimGraph (393)
+[2018.02.02-03.59.54:282][106]LogModuleManager: Shutting down and abandoning module Kismet (390)
+[2018.02.02-03.59.54:314][106]LogModuleManager: Shutting down and abandoning module ClassViewer (388)
+[2018.02.02-03.59.54:314][106]LogModuleManager: Shutting down and abandoning module Toolbox (386)
+[2018.02.02-03.59.54:314][106]LogModuleManager: Shutting down and abandoning module ModuleUI (384)
+[2018.02.02-03.59.54:314][106]LogModuleManager: Shutting down and abandoning module MovieSceneTools (382)
+[2018.02.02-03.59.54:315][106]LogModuleManager: Shutting down and abandoning module OutputLog (380)
+[2018.02.02-03.59.54:315][106]LogModuleManager: Shutting down and abandoning module GammaUI (378)
+[2018.02.02-03.59.54:315][106]LogModuleManager: Shutting down and abandoning module Documentation (376)
+[2018.02.02-03.59.54:317][106]LogModuleManager: Shutting down and abandoning module MovieSceneTracks (374)
+[2018.02.02-03.59.54:317][106]LogModuleManager: Shutting down and abandoning module MovieScene (372)
+[2018.02.02-03.59.54:317][106]LogModuleManager: Shutting down and abandoning module StreamingPauseRendering (370)
+[2018.02.02-03.59.54:317][106]LogModuleManager: Shutting down and abandoning module LauncherPlatform (368)
+[2018.02.02-03.59.54:317][106]LogModuleManager: Shutting down and abandoning module AnalyticsET (366)
+[2018.02.02-03.59.54:317][106]LogModuleManager: Shutting down and abandoning module PortalServices (364)
+[2018.02.02-03.59.54:317][106]LogModuleManager: Shutting down and abandoning module PortalRpc (362)
+[2018.02.02-03.59.54:317][106]LogModuleManager: Shutting down and abandoning module MessagingRpc (360)
+[2018.02.02-03.59.54:317][106]LogModuleManager: Shutting down and abandoning module AIModule (358)
+[2018.02.02-03.59.54:317][106]LogModuleManager: Shutting down and abandoning module GameplayDebugger (357)
+[2018.02.02-03.59.54:317][106]LogModuleManager: Shutting down and abandoning module AITestSuite (355)
+[2018.02.02-03.59.54:317][106]LogModuleManager: Shutting down and abandoning module DesktopPlatform (352)
+[2018.02.02-03.59.54:317][106]LogModuleManager: Shutting down and abandoning module ProfilerService (350)
+[2018.02.02-03.59.54:455][106]LogModuleManager: Shutting down and abandoning module TaskGraph (348)
+[2018.02.02-03.59.54:456][106]LogModuleManager: Shutting down and abandoning module SteamVRController (346)
+[2018.02.02-03.59.54:456][106]LogModuleManager: Shutting down and abandoning module ProceduralMeshComponentEditor (344)
+[2018.02.02-03.59.54:456][106]LogModuleManager: Shutting down and abandoning module ProceduralMeshComponent (342)
+[2018.02.02-03.59.54:456][106]LogModuleManager: Shutting down and abandoning module OculusInput (340)
+[2018.02.02-03.59.54:456][106]LogModuleManager: Shutting down and abandoning module MobilePatchingUtils (338)
+[2018.02.02-03.59.54:456][106]LogModuleManager: Shutting down and abandoning module CustomMeshComponent (336)
+[2018.02.02-03.59.54:456][106]LogModuleManager: Shutting down and abandoning module CableComponent (334)
+[2018.02.02-03.59.54:456][106]LogModuleManager: Shutting down and abandoning module ArchVisCharacter (332)
+[2018.02.02-03.59.54:456][106]LogModuleManager: Shutting down and abandoning module AndroidPermission (330)
+[2018.02.02-03.59.54:456][106]LogModuleManager: Shutting down and abandoning module ActorSequence (326)
+[2018.02.02-03.59.54:456][106]LogModuleManager: Shutting down and abandoning module MediaPlayerEditor (324)
+[2018.02.02-03.59.54:456][106]LogModuleManager: Shutting down and abandoning module MediaCompositingEditor (322)
+[2018.02.02-03.59.54:456][106]LogModuleManager: Shutting down and abandoning module MediaCompositing (320)
+[2018.02.02-03.59.54:456][106]LogModuleManager: Shutting down and abandoning module RawInput (318)
+[2018.02.02-03.59.54:458][106]LogModuleManager: Shutting down and abandoning module HTML5Networking (316)
+[2018.02.02-03.59.54:458][106]LogModuleManager: Shutting down and abandoning module AlembicImporter (314)
+[2018.02.02-03.59.54:458][106]LogModuleManager: Shutting down and abandoning module AlembicLibrary (313)
+[2018.02.02-03.59.54:458][106]LogModuleManager: Shutting down and abandoning module GeometryCache (312)
+[2018.02.02-03.59.54:458][106]LogModuleManager: Shutting down and abandoning module GeometryCacheEd (311)
+[2018.02.02-03.59.54:458][106]LogModuleManager: Shutting down and abandoning module SpeedTreeImporter (306)
+[2018.02.02-03.59.54:458][106]LogModuleManager: Shutting down and abandoning module PluginBrowser (304)
+[2018.02.02-03.59.54:458][106]LogModuleManager: Shutting down and abandoning module MobileLauncherProfileWizard (302)
+[2018.02.02-03.59.54:458][106]LogModuleManager: Shutting down and abandoning module VisualStudioSourceCodeAccess (300)
+[2018.02.02-03.59.54:458][106]LogModuleManager: Shutting down and abandoning module VisualStudioCodeSourceCodeAccess (298)
+[2018.02.02-03.59.54:458][106]LogModuleManager: Shutting down and abandoning module UObjectPlugin (296)
+[2018.02.02-03.59.54:458][106]LogModuleManager: Shutting down and abandoning module SubversionSourceControl (294)
+[2018.02.02-03.59.54:458][106]LogModuleManager: Shutting down and abandoning module PerforceSourceControl (292)
+[2018.02.02-03.59.54:459][106]LogModuleManager: Shutting down and abandoning module GitSourceControl (290)
+[2018.02.02-03.59.54:459][106]LogModuleManager: Shutting down and abandoning module SourceControl (289)
+[2018.02.02-03.59.54:459][106]LogModuleManager: Shutting down and abandoning module LightPropagationVolumeEditor (286)
+[2018.02.02-03.59.54:459][106]LogModuleManager: Shutting down and abandoning module PaperTiledImporter (284)
+[2018.02.02-03.59.54:459][106]LogModuleManager: Shutting down and abandoning module PaperSpriteSheetImporter (282)
+[2018.02.02-03.59.54:459][106]LogModuleManager: Shutting down and abandoning module Paper2DEditor (280)
+[2018.02.02-03.59.54:459][106]LogModuleManager: Shutting down and abandoning module MeshPaint (279)
+[2018.02.02-03.59.54:459][106]LogModuleManager: Shutting down and abandoning module LevelEditor (277)
+[2018.02.02-03.59.54:462][106]LogModuleManager: Shutting down and abandoning module PixelInspectorModule (276)
+[2018.02.02-03.59.54:462][106]LogModuleManager: Shutting down and abandoning module MainFrame (274)
+[2018.02.02-03.59.54:481][106]LogModuleManager: Shutting down and abandoning module HotReload (273)
+[2018.02.02-03.59.54:482][106]LogModuleManager: Shutting down and abandoning module RuntimePhysXCooking (268)
+[2018.02.02-03.59.54:483][106]LogModuleManager: Shutting down and abandoning module PhysXVehiclesEditor (266)
+[2018.02.02-03.59.54:483][106]LogModuleManager: Shutting down and abandoning module PhysXVehicles (264)
+[2018.02.02-03.59.54:483][106]LogModuleManager: Shutting down and abandoning module OculusEditor (262)
+[2018.02.02-03.59.54:483][106]LogModuleManager: Shutting down and abandoning module LocationServicesBPLibrary (260)
+[2018.02.02-03.59.54:483][106]LogModuleManager: Shutting down and abandoning module ImmediatePhysicsEditor (258)
+[2018.02.02-03.59.54:483][106]LogModuleManager: Shutting down and abandoning module ImmediatePhysics (256)
+[2018.02.02-03.59.54:483][106]LogModuleManager: Shutting down and abandoning module UdpMessaging (254)
+[2018.02.02-03.59.54:583][106]LogModuleManager: Shutting down and abandoning module TcpMessaging (252)
+[2018.02.02-03.59.54:684][106]LogModuleManager: Shutting down and abandoning module GameplayTagsEditor (250)
+[2018.02.02-03.59.54:684][106]LogModuleManager: Shutting down and abandoning module FacialAnimationEditor (248)
+[2018.02.02-03.59.54:684][106]LogModuleManager: Shutting down and abandoning module FacialAnimation (246)
+[2018.02.02-03.59.54:685][106]LogModuleManager: Shutting down and abandoning module AssetManagerEditor (244)
+[2018.02.02-03.59.54:685][106]LogModuleManager: Shutting down and abandoning module GraphEditor (243)
+[2018.02.02-03.59.54:685][106]LogModuleManager: Shutting down and abandoning module ContentBrowser (241)
+[2018.02.02-03.59.54:689][106]LogModuleManager: Shutting down and abandoning module LightPropagationVolumeRuntime (238)
+[2018.02.02-03.59.54:689][106]LogModuleManager: Shutting down and abandoning module Paper2D (236)
+[2018.02.02-03.59.54:689][106]LogModuleManager: Shutting down and abandoning module WindowsMoviePlayer (234)
+[2018.02.02-03.59.54:689][106]LogModuleManager: Shutting down and abandoning module WmfMedia (232)
+[2018.02.02-03.59.54:697][106]LogModuleManager: Shutting down and abandoning module ImgMedia (230)
+[2018.02.02-03.59.54:697][106]LogModuleManager: Shutting down and abandoning module PacketHandler (228)
+[2018.02.02-03.59.54:697][106]LogModuleManager: Shutting down and abandoning module ClothingSystemEditor (226)
+[2018.02.02-03.59.54:697][106]LogModuleManager: Shutting down and abandoning module ClothingSystemRuntime (224)
+[2018.02.02-03.59.54:697][106]LogModuleManager: Shutting down and abandoning module MediaAssets (222)
+[2018.02.02-03.59.54:697][106]LogModuleManager: Shutting down and abandoning module Media (221)
+[2018.02.02-03.59.54:706][106]LogModuleManager: Shutting down and abandoning module Overlay (218)
+[2018.02.02-03.59.54:706][106]LogModuleManager: Shutting down and abandoning module OverlayEditor (217)
+[2018.02.02-03.59.54:706][106]LogModuleManager: Shutting down and abandoning module VREditor (214)
+[2018.02.02-03.59.54:706][106]LogModuleManager: Shutting down and abandoning module StringTableEditor (212)
+[2018.02.02-03.59.54:706][106]LogModuleManager: Shutting down and abandoning module GameplayTasksEditor (210)
+[2018.02.02-03.59.54:706][106]LogModuleManager: Shutting down and abandoning module BehaviorTreeEditor (208)
+[2018.02.02-03.59.54:707][106]LogModuleManager: Shutting down and abandoning module FunctionalTesting (206)
+[2018.02.02-03.59.54:707][106]LogModuleManager: Shutting down and abandoning module CollisionAnalyzer (204)
+[2018.02.02-03.59.54:707][106]LogModuleManager: Shutting down and abandoning module WorkspaceMenuStructure (203)
+[2018.02.02-03.59.54:707][106]LogModuleManager: Shutting down and abandoning module UMG (200)
+[2018.02.02-03.59.54:707][106]LogModuleManager: Shutting down and abandoning module UMGEditor (199)
+[2018.02.02-03.59.54:707][106]LogModuleManager: Shutting down and abandoning module Sequencer (198)
+[2018.02.02-03.59.54:708][106]LogModuleManager: Shutting down and abandoning module MessageLog (195)
+[2018.02.02-03.59.54:708][106]LogModuleManager: Shutting down and abandoning module SlateReflector (190)
+[2018.02.02-03.59.54:708][106]LogModuleManager: Shutting down and abandoning module Slate (188)
+[2018.02.02-03.59.54:708][106]LogModuleManager: Shutting down and abandoning module EditorStyle (186)
+[2018.02.02-03.59.54:713][106]LogModuleManager: Shutting down and abandoning module MRMesh (184)
+[2018.02.02-03.59.54:713][106]LogModuleManager: Shutting down and abandoning module SourceCodeAccess (182)
+[2018.02.02-03.59.54:713][106]LogModuleManager: Shutting down and abandoning module HeadMountedDisplay (180)
+[2018.02.02-03.59.54:713][106]LogModuleManager: Shutting down and abandoning module XAudio2 (178)
+[2018.02.02-03.59.54:713][106]LogModuleManager: Shutting down and abandoning module Networking (176)
+[2018.02.02-03.59.54:713][106]LogModuleManager: Shutting down and abandoning module Core (172)
+[2018.02.02-03.59.54:713][106]LogModuleManager: Shutting down and abandoning module LevelSequence (168)
+[2018.02.02-03.59.54:713][106]LogModuleManager: Shutting down and abandoning module DirectoryWatcher (166)
+[2018.02.02-03.59.54:729][106]LogModuleManager: Shutting down and abandoning module KismetCompiler (164)
+[2018.02.02-03.59.54:729][106]LogModuleManager: Shutting down and abandoning module MeshUtilities (162)
+[2018.02.02-03.59.54:729][106]LogModuleManager: Shutting down and abandoning module MeshMergeUtilities (161)
+[2018.02.02-03.59.54:729][106]LogModuleManager: Shutting down and abandoning module MeshReductionInterface (160)
+[2018.02.02-03.59.54:729][106]LogModuleManager: Shutting down and abandoning module SimplygonSwarm (159)
+[2018.02.02-03.59.54:730][106]LogModuleManager: Shutting down and abandoning module SimplygonMeshReduction (157)
+[2018.02.02-03.59.54:730][106]LogModuleManager: Shutting down and abandoning module QuadricMeshReduction (155)
+[2018.02.02-03.59.54:730][106]LogModuleManager: Shutting down and abandoning module MaterialBaking (151)
+[2018.02.02-03.59.54:730][106]LogModuleManager: Shutting down and abandoning module DerivedDataCache (148)
+[2018.02.02-03.59.54:776][106]LogDerivedDataCache: Shutdown
+[2018.02.02-03.59.54:776][106]LogModuleManager: Shutting down and abandoning module TargetPlatform (146)
+[2018.02.02-03.59.54:776][106]LogModuleManager: Shutting down and abandoning module VulkanShaderFormat (145)
+[2018.02.02-03.59.54:776][106]LogModuleManager: Shutting down and abandoning module ShaderFormatVectorVM (143)
+[2018.02.02-03.59.54:776][106]LogModuleManager: Shutting down and abandoning module ShaderFormatOpenGL (141)
+[2018.02.02-03.59.54:777][106]LogModuleManager: Shutting down and abandoning module ShaderFormatD3D (139)
+[2018.02.02-03.59.54:777][106]LogModuleManager: Shutting down and abandoning module MetalShaderFormat (137)
+[2018.02.02-03.59.54:777][106]LogModuleManager: Shutting down and abandoning module TextureFormatUncompressed (135)
+[2018.02.02-03.59.54:777][106]LogModuleManager: Shutting down and abandoning module TextureFormatPVR (133)
+[2018.02.02-03.59.54:777][106]LogModuleManager: Shutting down and abandoning module TextureFormatDXT (131)
+[2018.02.02-03.59.54:777][106]LogModuleManager: Shutting down and abandoning module TextureFormatIntelISPCTexComp (129)
+[2018.02.02-03.59.54:778][106]LogModuleManager: Shutting down and abandoning module TextureFormatASTC (127)
+[2018.02.02-03.59.54:778][106]LogModuleManager: Shutting down and abandoning module ImageWrapper (126)
+[2018.02.02-03.59.54:778][106]LogModuleManager: Shutting down and abandoning module TextureFormatAndroid (123)
+[2018.02.02-03.59.54:778][106]LogModuleManager: Shutting down and abandoning module AudioFormatOpus (121)
+[2018.02.02-03.59.54:778][106]LogModuleManager: Shutting down and abandoning module AudioFormatOgg (119)
+[2018.02.02-03.59.54:778][106]LogModuleManager: Shutting down and abandoning module AudioFormatADPCM (117)
+[2018.02.02-03.59.54:778][106]LogModuleManager: Shutting down and abandoning module LinuxTargetPlatform (115)
+[2018.02.02-03.59.54:778][106]LogModuleManager: Shutting down and abandoning module LinuxServerTargetPlatform (113)
+[2018.02.02-03.59.54:778][106]LogModuleManager: Shutting down and abandoning module LinuxNoEditorTargetPlatform (111)
+[2018.02.02-03.59.54:778][106]LogModuleManager: Shutting down and abandoning module LinuxClientTargetPlatform (109)
+[2018.02.02-03.59.54:778][106]LogModuleManager: Shutting down and abandoning module TVOSTargetPlatform (107)
+[2018.02.02-03.59.54:778][106]LogModuleManager: Shutting down and abandoning module Messaging (105)
+[2018.02.02-03.59.54:778][106]LogModuleManager: Shutting down and abandoning module IOSTargetPlatform (103)
+[2018.02.02-03.59.54:778][106]LogModuleManager: Shutting down and abandoning module HTML5TargetPlatform (101)
+[2018.02.02-03.59.54:778][106]LogModuleManager: Shutting down and abandoning module AndroidTargetPlatform (99)
+[2018.02.02-03.59.54:778][106]LogModuleManager: Shutting down and abandoning module Android_PVRTCTargetPlatform (97)
+[2018.02.02-03.59.54:778][106]LogModuleManager: Shutting down and abandoning module Android_MultiTargetPlatform (95)
+[2018.02.02-03.59.54:778][106]LogModuleManager: Shutting down and abandoning module Android_ETC2TargetPlatform (93)
+[2018.02.02-03.59.54:778][106]LogModuleManager: Shutting down and abandoning module Android_ETC1TargetPlatform (91)
+[2018.02.02-03.59.54:778][106]LogModuleManager: Shutting down and abandoning module Android_DXTTargetPlatform (89)
+[2018.02.02-03.59.54:778][106]LogModuleManager: Shutting down and abandoning module Android_ATCTargetPlatform (87)
+[2018.02.02-03.59.54:778][106]LogModuleManager: Shutting down and abandoning module Android_ASTCTargetPlatform (85)
+[2018.02.02-03.59.54:778][106]LogModuleManager: Shutting down and abandoning module WindowsTargetPlatform (83)
+[2018.02.02-03.59.54:778][106]LogModuleManager: Shutting down and abandoning module WindowsServerTargetPlatform (81)
+[2018.02.02-03.59.54:779][106]LogModuleManager: Shutting down and abandoning module WindowsNoEditorTargetPlatform (79)
+[2018.02.02-03.59.54:779][106]LogModuleManager: Shutting down and abandoning module WindowsClientTargetPlatform (77)
+[2018.02.02-03.59.54:779][106]LogModuleManager: Shutting down and abandoning module MacTargetPlatform (75)
+[2018.02.02-03.59.54:779][106]LogModuleManager: Shutting down and abandoning module MacServerTargetPlatform (73)
+[2018.02.02-03.59.54:779][106]LogModuleManager: Shutting down and abandoning module MacNoEditorTargetPlatform (71)
+[2018.02.02-03.59.54:779][106]LogModuleManager: Shutting down and abandoning module MacClientTargetPlatform (69)
+[2018.02.02-03.59.54:779][106]LogModuleManager: Shutting down and abandoning module AllDesktopTargetPlatform (67)
+[2018.02.02-03.59.54:779][106]LogModuleManager: Shutting down and abandoning module InputCore (64)
+[2018.02.02-03.59.54:779][106]LogModuleManager: Shutting down and abandoning module Settings (62)
+[2018.02.02-03.59.54:779][106]LogModuleManager: Shutting down and abandoning module PhysXCooking (60)
+[2018.02.02-03.59.54:779][106]LogModuleManager: Shutting down and abandoning module SteamVR (58)
+[2018.02.02-03.59.54:779][106]LogModuleManager: Shutting down and abandoning module OculusHMD (56)
+[2018.02.02-03.59.54:779][106]LogModuleManager: Shutting down and abandoning module ExampleDeviceProfileSelector (54)
+[2018.02.02-03.59.54:779][106]LogModuleManager: Shutting down and abandoning module AppleARKit (52)
+[2018.02.02-03.59.54:779][106]LogModuleManager: Shutting down and abandoning module AugmentedReality (51)
+[2018.02.02-03.59.54:779][106]LogModuleManager: Shutting down and abandoning module OnlineBlueprintSupport (48)
+[2018.02.02-03.59.54:779][106]LogModuleManager: Shutting down and abandoning module OnlineSubsystem (44)
+[2018.02.02-03.59.54:779][106]LogModuleManager: Shutting down and abandoning module XMPP (43)
+[2018.02.02-03.59.54:780][106]LogModuleManager: Shutting down and abandoning module HTTP (41)
+[2018.02.02-03.59.54:780][106]LogHttp: Display: Http module shutting down, but needs to wait on 2 outstanding Http requests:
+[2018.02.02-03.59.54:780][106]LogHttp: Display: 	verb=[POST] url=[https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7B61345050-494B-92F6-31BD-36A1A02167C0%7D&AppID=UEEditor.Rocket.Release&AppVersion=4.18.3-3832480%2B%2B%2BUE4%2BRelease-4.18&UserID=bf60ee4f4483664cc9b427bdae8adf3f%7C215f6abc9e034017a9260fcb5f719f6a%7C03c4eb9d-5525-4d78-a36a-642ff74d7f12&AppEnvironment=datacollector-binary&UploadType=eteventstream] status=Processing
+[2018.02.02-03.59.54:780][106]LogHttp: Display: 	verb=[POST] url=[https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7B61345050-494B-92F6-31BD-36A1A02167C0%7D&AppID=UEEditor.Rocket.Release&AppVersion=4.18.3-3832480%2B%2B%2BUE4%2BRelease-4.18&UserID=bf60ee4f4483664cc9b427bdae8adf3f%7C215f6abc9e034017a9260fcb5f719f6a%7C03c4eb9d-5525-4d78-a36a-642ff74d7f12&AppEnvironment=datacollector-binary&UploadType=eteventstream] status=Processing
+[2018.02.02-03.59.54:792][106]LogModuleManager: Shutting down and abandoning module SSL (40)
+[2018.02.02-03.59.54:796][106]LogModuleManager: Shutting down and abandoning module AnimationModifiers (36)
+[2018.02.02-03.59.54:797][106]LogModuleManager: Shutting down and abandoning module PropertyEditor (35)
+[2018.02.02-03.59.54:797][106]LogModuleManager: Shutting down and abandoning module AudioEditor (32)
+[2018.02.02-03.59.54:797][106]LogModuleManager: Shutting down and abandoning module TextureCompressor (30)
+[2018.02.02-03.59.54:798][106]LogModuleManager: Shutting down and abandoning module ShaderCore (28)
+[2018.02.02-03.59.54:798][106]LogModuleManager: Shutting down and abandoning module Landscape (26)
+[2018.02.02-03.59.54:798][106]LogModuleManager: Shutting down and abandoning module SlateRHIRenderer (24)
+[2018.02.02-03.59.54:810][106]LogModuleManager: Shutting down and abandoning module OpenGLDrv (22)
+[2018.02.02-03.59.54:810][106]LogModuleManager: Shutting down and abandoning module D3D11RHI (20)
+[2018.02.02-03.59.54:810][106]LogModuleManager: Shutting down and abandoning module AnimGraphRuntime (18)
+[2018.02.02-03.59.54:810][106]LogModuleManager: Shutting down and abandoning module Renderer (16)
+[2018.02.02-03.59.54:810][106]LogModuleManager: Shutting down and abandoning module Engine (14)
+[2018.02.02-03.59.54:810][106]LogModuleManager: Shutting down and abandoning module CoreUObject (12)
+[2018.02.02-03.59.54:810][106]LogModuleManager: Shutting down and abandoning module NetworkFile (10)
+[2018.02.02-03.59.54:810][106]LogModuleManager: Shutting down and abandoning module CookedIterativeFile (8)
+[2018.02.02-03.59.54:810][106]LogModuleManager: Shutting down and abandoning module StreamingFile (6)
+[2018.02.02-03.59.54:810][106]LogModuleManager: Shutting down and abandoning module SandboxFile (4)
+[2018.02.02-03.59.54:810][106]LogModuleManager: Shutting down and abandoning module PakFile (2)
+[2018.02.02-03.59.54:822][106]LogExit: Exiting.
+[2018.02.02-03.59.54:863][106]Log file closed, 02/01/18 21:59:54
