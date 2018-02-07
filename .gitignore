@@ -73,3 +73,9 @@ Intermediate/*
 
 # Cache files for the editor to use
 DerivedDataCache/*
+
+# Unreal temp files
+*/Saved/*
+*/Intermediate/*
+*/Logs/*
+*/Config/*
