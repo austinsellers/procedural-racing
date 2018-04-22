@@ -1,0 +1,25 @@
+# Blender MTL File: 'bus.obj'
+# Material Count: 2
+
+newmtl 01___Default
+Ns 9.803922
+Ka 0.588235 0.588235 0.588235
+Kd 0.588235 0.588235 0.588235
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.500000
+d 1.000000
+illum 2
+map_Kd procRaceBlenderFiles\diffuse.png
+map_Ka procRaceBlenderFiles\\diffuse.png
+
+newmtl Material.001
+Ns 94.117647
+Ka 1.000000 1.000000 1.000000
+Kd 0.640000 0.640000 0.640000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.000000
+d 1.000000
+illum 2
+map_Kd procRaceBlenderFiles\diffuse.png
